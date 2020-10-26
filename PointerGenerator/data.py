@@ -70,7 +70,7 @@ class Vocab(object):
     with open(fpath, "w") as f:
       fieldnames = ['word']
       writer = csv.DictWriter(f, delimiter="\t", fieldnames=fieldnames)
-      for i in xrange(self.size()):
+      for i in range(self.size()):
         writer.writerow({"word": self._id_to_word[i]})
 
 

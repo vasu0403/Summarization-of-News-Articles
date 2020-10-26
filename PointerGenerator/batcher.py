@@ -8,7 +8,7 @@ from threading import Thread
 import numpy as np
 import tensorflow as tf
 
-import config
+# import config
 import data
 
 import random
@@ -24,8 +24,8 @@ class Example(object):
 
     # Process the article
     article_words = article.split()
-    if len(article_words) > config.max_enc_steps:
-      article_words = article_words[:config.max_enc_steps]
+    if len(article_words) > max_enc_steps:
+      article_words = article_words[:max_enc_steps]
     self.enc_len = len(article_words) # store the length after truncation but before padding
     self.enc_input = [vocab.word2id(w) for w in article_words] # list of word ids; OOVs are represented by the id for UNK token
 
@@ -35,11 +35,11 @@ class Example(object):
     abs_ids = [vocab.word2id(w) for w in abstract_words] # list of word ids; OOVs are represented by the id for UNK token
 
     # Get the decoder input sequence and target sequence
-    self.dec_input, self.target = self.get_dec_inp_targ_seqs(abs_ids, config.max_dec_steps, start_decoding, stop_decoding)
+    self.dec_input, self.target = self.get_dec_inp_targ_seqs(abs_ids, max_dec_steps, start_decoding, stop_decoding)
     self.dec_len = len(self.dec_input)
 
     # If using pointer-generator mode, we need to store some extra info
-    if config.pointer_gen:
+    if pointer_gen:
       # Store a version of the enc_input where in-article OOVs are represented by their temporary OOV id; also store the in-article OOVs words themselves
       self.enc_input_extend_vocab, self.article_oovs = data.article2ids(article_words, vocab)
 
@@ -47,7 +47,7 @@ class Example(object):
       abs_ids_extend_vocab = data.abstract2ids(abstract_words, vocab, self.article_oovs)
 
       # Overwrite decoder target sequence so it uses the temp article OOV ids
-      _, self.target = self.get_dec_inp_targ_seqs(abs_ids_extend_vocab, config.max_dec_steps, start_decoding, stop_decoding)
+      _, self.target = self.get_dec_inp_targ_seqs(abs_ids_extend_vocab, max_dec_steps, start_decoding, stop_decoding)
 
     # Store the original strings
     self.original_article = article
@@ -77,7 +77,7 @@ class Example(object):
   def pad_encoder_input(self, max_len, pad_id):
     while len(self.enc_input) < max_len:
       self.enc_input.append(pad_id)
-    if config.pointer_gen:
+    if pointer_gen:
       while len(self.enc_input_extend_vocab) < max_len:
         self.enc_input_extend_vocab.append(pad_id)
 
@@ -109,11 +109,11 @@ class Batch(object):
     for i, ex in enumerate(example_list):
       self.enc_batch[i, :] = ex.enc_input[:]
       self.enc_lens[i] = ex.enc_len
-      for j in xrange(ex.enc_len):
+      for j in range(ex.enc_len):
         self.enc_padding_mask[i][j] = 1
 
     # For pointer-generator mode, need to store some extra info
-    if config.pointer_gen:
+    if pointer_gen:
       # Determine the max number of in-article OOVs in this batch
       self.max_art_oovs = max([len(ex.article_oovs) for ex in example_list])
       # Store the in-article OOVs themselves
@@ -126,12 +126,12 @@ class Batch(object):
   def init_decoder_seq(self, example_list):
     # Pad the inputs and targets
     for ex in example_list:
-      ex.pad_decoder_inp_targ(config.max_dec_steps, self.pad_id)
+      ex.pad_decoder_inp_targ(max_dec_steps, self.pad_id)
 
     # Initialize the numpy arrays.
-    self.dec_batch = np.zeros((self.batch_size, config.max_dec_steps), dtype=np.int32)
-    self.target_batch = np.zeros((self.batch_size, config.max_dec_steps), dtype=np.int32)
-    self.dec_padding_mask = np.zeros((self.batch_size, config.max_dec_steps), dtype=np.float32)
+    self.dec_batch = np.zeros((self.batch_size, max_dec_steps), dtype=np.int32)
+    self.target_batch = np.zeros((self.batch_size, max_dec_steps), dtype=np.int32)
+    self.dec_padding_mask = np.zeros((self.batch_size, max_dec_steps), dtype=np.float32)
     self.dec_lens = np.zeros((self.batch_size), dtype=np.int32)
 
     # Fill in the numpy arrays
@@ -139,7 +139,7 @@ class Batch(object):
       self.dec_batch[i, :] = ex.dec_input[:]
       self.target_batch[i, :] = ex.target[:]
       self.dec_lens[i] = ex.dec_len
-      for j in xrange(ex.dec_len):
+      for j in range(ex.dec_len):
         self.dec_padding_mask[i][j] = 1
 
   def store_orig_strings(self, example_list):
@@ -158,8 +158,8 @@ class Batcher(object):
     self.mode = mode
     self.batch_size = batch_size
     # Initialize a queue of Batches waiting to be used, and a queue of Examples waiting to be batched
-    self._batch_queue = Queue.Queue(self.BATCH_QUEUE_MAX)
-    self._example_queue = Queue.Queue(self.BATCH_QUEUE_MAX * self.batch_size)
+    self._batch_queue = queue.Queue(self.BATCH_QUEUE_MAX)
+    self._example_queue = queue.Queue(self.BATCH_QUEUE_MAX * self.batch_size)
 
     # Different settings depending on whether we're in single_pass mode or not
     if single_pass:
@@ -174,12 +174,12 @@ class Batcher(object):
 
     # Start the threads that load the queues
     self._example_q_threads = []
-    for _ in xrange(self._num_example_q_threads):
+    for _ in range(self._num_example_q_threads):
       self._example_q_threads.append(Thread(target=self.fill_example_queue))
       self._example_q_threads[-1].daemon = True
       self._example_q_threads[-1].start()
     self._batch_q_threads = []
-    for _ in xrange(self._num_batch_q_threads):
+    for _ in range(self._num_batch_q_threads):
       self._batch_q_threads.append(Thread(target=self.fill_batch_queue))
       self._batch_q_threads[-1].daemon = True
       self._batch_q_threads[-1].start()
@@ -225,18 +225,18 @@ class Batcher(object):
       if self.mode == 'decode':
         # beam search decode mode single example repeated in the batch
         ex = self._example_queue.get()
-        b = [ex for _ in xrange(self.batch_size)]
+        b = [ex for _ in range(self.batch_size)]
         self._batch_queue.put(Batch(b, self._vocab, self.batch_size))
       else:
         # Get bucketing_cache_size-many batches of Examples into a list, then sort
         inputs = []
-        for _ in xrange(self.batch_size * self._bucketing_cache_size):
+        for _ in range(self.batch_size * self._bucketing_cache_size):
           inputs.append(self._example_queue.get())
         inputs = sorted(inputs, key=lambda inp: inp.enc_len, reverse=True) # sort by length of encoder sequence
 
         # Group the sorted Examples into batches, optionally shuffle the batches, and place in the batch queue.
         batches = []
-        for i in xrange(0, len(inputs), self.batch_size):
+        for i in range(0, len(inputs), self.batch_size):
           batches.append(inputs[i:i + self.batch_size])
         if not self._single_pass:
           shuffle(batches)
