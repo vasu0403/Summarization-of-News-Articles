@@ -4,6 +4,7 @@ import queue
 import time
 from random import shuffle
 from threading import Thread
+import six
 
 import numpy as np
 import tensorflow as tf
@@ -39,15 +40,15 @@ class Example(object):
     self.dec_len = len(self.dec_input)
 
     # If using pointer-generator mode, we need to store some extra info
-    if pointer_gen:
+    # if pointer_gen:
       # Store a version of the enc_input where in-article OOVs are represented by their temporary OOV id; also store the in-article OOVs words themselves
-      self.enc_input_extend_vocab, self.article_oovs = data.article2ids(article_words, vocab)
+    self.enc_input_extend_vocab, self.article_oovs = data.article2ids(article_words, vocab)
 
-      # Get a verison of the reference summary where in-article OOVs are represented by their temporary article OOV id
-      abs_ids_extend_vocab = data.abstract2ids(abstract_words, vocab, self.article_oovs)
+    # Get a verison of the reference summary where in-article OOVs are represented by their temporary article OOV id
+    abs_ids_extend_vocab = data.abstract2ids(abstract_words, vocab, self.article_oovs)
 
-      # Overwrite decoder target sequence so it uses the temp article OOV ids
-      _, self.target = self.get_dec_inp_targ_seqs(abs_ids_extend_vocab, max_dec_steps, start_decoding, stop_decoding)
+    # Overwrite decoder target sequence so it uses the temp article OOV ids
+    _, self.target = self.get_dec_inp_targ_seqs(abs_ids_extend_vocab, max_dec_steps, start_decoding, stop_decoding)
 
     # Store the original strings
     self.original_article = article
@@ -148,6 +149,7 @@ class Batch(object):
     self.original_abstracts_sents = [ex.original_abstract_sents for ex in example_list] # list of list of lists
 
 
+
 class Batcher(object):
   BATCH_QUEUE_MAX = 100 # max number of batches the batch_queue can hold
 
@@ -206,7 +208,7 @@ class Batcher(object):
 
     while True:
       try:
-        (article, abstract) = input_gen.next() # read the next example from file. article and abstract are both strings.
+        (article, abstract) = input_gen.__next__()  # read the next example from file. article and abstract are both strings.
       except StopIteration: # if there are no more examples:
         tf.logging.info("The example generator for this example queue filling thread has exhausted data.")
         if self._single_pass:
@@ -268,7 +270,7 @@ class Batcher(object):
 
   def text_generator(self, example_generator):
     while True:
-      e = example_generator.next() # e is a tf.Example
+      e = example_generator.__next__() # e is a tf.Example
       try:
         article_text = e.features.feature['article'].bytes_list.value[0] # the article text was saved under the key 'article' in the data files
         abstract_text = e.features.feature['abstract'].bytes_list.value[0] # the abstract text was saved under the key 'abstract' in the data files
