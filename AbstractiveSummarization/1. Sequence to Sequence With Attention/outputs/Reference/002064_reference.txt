@@ -1,0 +1,4 @@
+b'juan mata scored as manchester united thumped manchester city .'
+b"victory sends louis van gaal 's side four points clear of their rivals in third ."
+b'manchester united are now just one point adrift of second placed arsenal .'
+b'mata has challenged his teammates to keep on fighting right to the end .'

@@ -1,0 +1,3 @@
+b'certain products at retailer are more expensive per unit than supermarkets .'
+b'comes as poundland announced sales exceed # 1bn for first time last year .'
+b"company 's success has been put down to shoppers hunting for bargains ."

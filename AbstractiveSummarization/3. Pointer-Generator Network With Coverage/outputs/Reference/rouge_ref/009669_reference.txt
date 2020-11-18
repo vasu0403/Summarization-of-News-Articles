@@ -1,0 +1,4 @@
+b'natasha , 24 , and patrick jackson , 22 , were both left brain damaged at birth .'
+b"they 're severely disabled , suffer cerebral palsy and natasha has epilepsy ."
+b'she is wheelchair-bound and relies of nurses to help her dress and eat .'
+b'mother , paula mckay , has won a # 13 million legal battle for compensation .'

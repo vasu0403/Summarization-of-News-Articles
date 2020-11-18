@@ -1,0 +1,4 @@
+b'frida kahlo was a mexican artist known for her self portraits .'
+b'a new book focusing on her life includes a series of intimate photographs .'
+b'the pictures were taken by french photographer gisele freund .'
+b'they feature in frida kahlo : the gis\xc3\xa8le freund photographs .'

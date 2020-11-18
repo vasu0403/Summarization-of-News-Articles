@@ -1,0 +1,5 @@
+b'airbus are increasing their seats from 10 to 11 seats in every row .'
+b'the addition will see airbus creating a fourth cheaper class called choice .'
+b'the change is to be launched in 2017 on the airbus 380 model .'
+b'airbus state the move is to reflect 90 per cent of fliers using economy .'
+b'thankfully seat widths will remain at the standard 18 inches .'

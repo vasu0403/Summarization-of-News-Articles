@@ -1,0 +1,3 @@
+b"the united states ' national defense reserve fleet was set up after the second world war in 1945 ."
+b'the fleet can be activated within one to four months to aid in national defense and emergencies .'
+b'at its height in 1950 , the ndrf consisted of 2,277 ships , reduced to 230 by 2007 , and 122 in april last year .'

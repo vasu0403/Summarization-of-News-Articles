@@ -1,0 +1,5 @@
+b'celebrity chef pete evans strongly endorses fluoride-free water .'
+b"but health minister jillian skinner said he is putting people 's health at risk ."
+b"she also added she has refused to watch evans ' show my kitchen rules ."
+b'medical professionals say fluoride protects from tooth decay .'
+b'australian dental association supports water fluoridation .'

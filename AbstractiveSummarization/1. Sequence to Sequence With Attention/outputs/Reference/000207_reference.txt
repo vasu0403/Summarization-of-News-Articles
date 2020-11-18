@@ -1,0 +1,3 @@
+b"cynthia lennon was john lennon 's first wife ."
+b'she was there during the rise of the beatles .'
+b'her death was announced by her son , julian .'

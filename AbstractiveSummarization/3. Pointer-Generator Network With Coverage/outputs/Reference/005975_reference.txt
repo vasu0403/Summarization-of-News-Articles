@@ -1,0 +1,4 @@
+b'the comment was made today by ellen stofan , chief nasa scientist .'
+b"` it 's definitely not an if , it 's a when , ' added nasa 's jeffery newmark ."
+b'but the likelihood that life is similar to that on earth is low , they said .'
+b"signs of water have been found on some of jupiter and saturn 's moons ."

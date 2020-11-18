@@ -1,0 +1,4 @@
+b'researchers studied 40 million posts made by 1.7 million web users .'
+b'from this they divided people into two groups - future-banned users -lrb- fbus -rrb- and never-banned users -lrb- nbus -rrb- .'
+b'they built an algorithm that scans posts for signs of antisocial behaviour .'
+b'study shows this algorithm can identify potential trolls in 80 % of cases .'

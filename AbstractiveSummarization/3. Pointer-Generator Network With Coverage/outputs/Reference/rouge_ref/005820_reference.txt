@@ -1,0 +1,4 @@
+b'greenstone acts like a booster for so-called wireless mesh networks .'
+b"it currently works with open garden 's firechat ` off-the-grid ' firechat app ."
+b'both use an ios feature called multipeer connectivity framework -lrb- mcf -rrb- .'
+b"instead of sending messages using a mobile signal , the free app and gadget create a localised network where each mobile becomes a ` node '"

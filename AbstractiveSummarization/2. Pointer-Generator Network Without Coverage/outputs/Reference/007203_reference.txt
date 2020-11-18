@@ -1,0 +1,4 @@
+b'washington , dc company united space structures wants to create a new space station .'
+b"it rotates four times a minute to create artificial gravity - with the ` stem ' and ` dome spinning in opposite directions ."
+b'it would be 1,300 ft -lrb- 400 metres -rrb- long , cost # 200 billion -lrb- $ 300 billion -rrb- and take 30 years to build .'
+b"` we believe artificial gravity is required to support long term living in space , ' bill kemp from uss told mailonline ."

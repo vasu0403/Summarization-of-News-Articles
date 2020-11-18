@@ -1,0 +1,2 @@
+b'a random sample from a michigan store tested positive for listeria monocytogenes .'
+b'no illnesses caused by the hummus have been reported so far .'

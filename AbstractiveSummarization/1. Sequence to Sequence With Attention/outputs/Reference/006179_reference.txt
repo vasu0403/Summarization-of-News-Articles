@@ -1,0 +1,5 @@
+b"google employees donated $ 1.6 million to president barack obama 's two white house bids ."
+b'the company told daily mail online that it has spoken with the federal trade commission about antitrust concerns ; it was investigated in 2011 but later let off the hook .'
+b"in the 2012 election , the company 's search algorithm customized results for obama but not for republican mitt romney ."
+b"google execs who have left to work in the white house include obama 's chief technology officer ."
+b'hillary clinton also poached her new tech chief from google this week .'

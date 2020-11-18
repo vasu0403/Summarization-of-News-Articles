@@ -1,0 +1,5 @@
+b"lewis hamilton beat nico rosberg at sunday 's chinese grand prix ."
+b'the mercedes team-mates finished first and second in the shanghai race .'
+b'rosberg criticised hamilton for selfishly slowing down during the race .'
+b"hamilton says he is ` prepared ' for rosberg 's underhand tactics ."
+b"he claimed rosberg ` was n't quick enough ' to catch him in china ."

@@ -1,0 +1,5 @@
+b'anand iyer , 36 , was earning six figures at threadflip in san francisco .'
+b"he realized he did n't get much time to see his daughter , 2 , ava ."
+b'he felt awkward at the playground and ava was asleep when he got home .'
+b"quit his job to be house-husband , says it 's ` the best investment '"
+b'his wife shreya , 34 , now supports the family as a recruitment manager .'

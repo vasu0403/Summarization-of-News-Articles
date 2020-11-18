@@ -1,0 +1,3 @@
+orange has always been the most popular colour - although in recent years blue has begun to catch up .
+the software extracts the relevant colour information from images or artworks found online .
+the graph shows a clear trend toward more blue paintings toward the end of the 20th century .

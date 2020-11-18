@@ -1,0 +1,4 @@
+b"illume arclighter creates a ` super high-intensity ' electrical arc ."
+b'it uses electricity stored in a lithium ion battery instead of standard fuel .'
+b"arc is smaller than an open flame , but is much hotter and does n't flare up ."
+b'device is available to pre-order via kickstarter for cad$ 40 -lrb- # 21 or us$ 32 -rrb- .'

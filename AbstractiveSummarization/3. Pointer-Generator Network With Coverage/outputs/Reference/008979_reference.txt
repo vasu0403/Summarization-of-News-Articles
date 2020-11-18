@@ -1,0 +1,5 @@
+b'flight was traveling from reykjavik , iceland to denver when it was struck .'
+b'passengers said it was hit by lightning shortly after the plane took off .'
+b'pilots reported the lighting and continued eight-hour flight to denver .'
+b"it was n't until they landed that pilots notice huge hole at the nose of plane ."
+b'no one on board was injured and the plane landed safely in denver .'

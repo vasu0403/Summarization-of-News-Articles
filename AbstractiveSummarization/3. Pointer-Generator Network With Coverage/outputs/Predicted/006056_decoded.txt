@@ -1,0 +1,2 @@
+camoji is one of the first apps to take advantage of facebook 's decision to open up messenger , revealed at its recent f8 conference in san francisco .
+camoji allows people to add instagram style filters to their images before sharing them .

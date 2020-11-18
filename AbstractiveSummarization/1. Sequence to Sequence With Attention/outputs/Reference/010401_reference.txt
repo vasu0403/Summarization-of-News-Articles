@@ -1,0 +1,4 @@
+b"david cameron grilled by young voters on bbc radio 1 's live lounge ."
+b'host chris smith accused of taking hostile stance towards tory leader .'
+b'audience often interrupted prime minister as he answered questions .'
+b"listeners called interview ` disgusting ' and accused bbc of left-wing bias ."

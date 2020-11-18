@@ -1,0 +1,4 @@
+b'nasa has been testing a flexible wing on a plane in california .'
+b'the wing can bend from -2 degrees up to 30 degrees .'
+b"technology means that regular flaps are n't needed - and it is much lighter ."
+b'it could increase fuel efficiency 12 % and reduce noise 40 % .'

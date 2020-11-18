@@ -1,0 +1,3 @@
+b"st mary 's hospital in west london is the first choice of venue for the birth ."
+b'but royal berkshire in reading and queen elizabeth in norfolk on standby .'
+b'plans in case kate goes into labour while visiting parents or country estate .'

@@ -1,0 +1,7 @@
+b'the weather system is called an east coast low . it is formed from low-pressure over the tasman sea .'
+b'they draw strong , moisture-laden winds across the coast , which cause heavy rain to fall .'
+b'they are particularly common in june and can dump hundreds of millimetres of rain .'
+b'they usually move away after 12 hours but this one is going to stick around for 24-36 hours .'
+b'east coast lows were common in the 1970s but became less common in the 90s .'
+b"` close to the coast winds are up to 135kmh and rain up to 200mm , ' weatherman don white says ."
+b'police and nsw fire and rescue have been called in to help the ses on 2800 weather related call-outs .'

@@ -1,0 +1,4 @@
+b'itv meteorologist lucy verasamy visited le manoir aux quat ` saisons .'
+b"cooking lessons and luxury awaited at raymond blanc 's manor house ."
+b'tried the seven-course taster menu at the two michelin-starred restaurant .'
+b'the day-long food , body , mind course combined nutrition and recipes .'

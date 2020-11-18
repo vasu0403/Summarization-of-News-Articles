@@ -1,0 +1,4 @@
+b'the flashgap app is free for ios and android devices .'
+b'photos and videos taken on the app disappear into a hidden album .'
+b'they only reappear at midday the next day and are shown to all attendees .'
+b'app was inspired by the film the hangover starring bradley cooper .'

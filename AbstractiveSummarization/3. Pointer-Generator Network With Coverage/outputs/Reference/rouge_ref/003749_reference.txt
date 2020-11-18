@@ -1,0 +1,5 @@
+b"patrick de koster will go ` around the world ' to talk about kevin de bruyne ."
+b'the wolfsburg midfielder is wanted by manchester city and bayern munich .'
+b'de koster has admitted having talks with city chiefs this season .'
+b'but he has not spoken to manchester united about a move for his client .'
+b'de bruyne remains happy at wolfsburg and could yet remain at the club .'

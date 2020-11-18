@@ -1,0 +1,5 @@
+b'germanwings flight 4u3882 was flying from hanover , germany to rome .'
+b'the airbus a319 was carrying 145 passengers and five crew members .'
+b"passenger and flight attendant suffered ` an acute feeling of sickness '"
+b"woman who had ' a fear of flying ' was assessed by medics , said passenger ."
+b'replacement aircraft had to be flown in with an additional crew member .'

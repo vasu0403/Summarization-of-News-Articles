@@ -1,0 +1,3 @@
+b'david moyes gave wayne rooney his professional debut at everton .'
+b"moyes was appointed manchester united 's new manager in 2013 ."
+b'rooney was heavily linked with a move to chelsea at the same time .'

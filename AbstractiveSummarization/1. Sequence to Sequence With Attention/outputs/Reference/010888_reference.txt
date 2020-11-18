@@ -1,0 +1,4 @@
+b'a new species of frog has been found in the state of s\xc3\xa3o paulo , brazil .'
+b'called hylodes japi , it was found to mate underground in secret chambers .'
+b'males and females typically find a spot to mate in about five minutes .'
+b'and the male will cover up the eggs to protect them from predators .'

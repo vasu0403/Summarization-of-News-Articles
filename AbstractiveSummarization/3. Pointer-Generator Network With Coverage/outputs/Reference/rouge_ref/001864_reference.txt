@@ -1,0 +1,3 @@
+b'the crew were training for the boat race which takes place on april 11 .'
+b"the sunken eight was recovered and returned to oxford 's base ."
+b"the choppy conditions were caused by strong wind against the tide creating three successive waves that poured over the boat 's riggers ."

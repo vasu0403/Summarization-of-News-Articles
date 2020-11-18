@@ -1,0 +1,6 @@
+b'an ill female health worker is being treated for ebola on friday .'
+b"she 's been admitted to canberra hospital after returning from west africa ."
+b'the unnamed woman was working at an ebola treatment clinic in liberia .'
+b"it 's understood the woman did not treat any cases of ebola overseas ."
+b"she 's being treated in isolation under the hospital 's ebola protocol ."
+b'the results of the ebola test are expected to be known within 72 hours .'

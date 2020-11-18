@@ -1,0 +1,4 @@
+b"the poet has a reputation as a ` young apollo ' who died tragically young ."
+b'new letters reveal he had a string of brief relationships with women .'
+b"lover cathleen nesbitt suggested that he could ` settle in the wild '"
+b'brooke was mourned by the nation and celebrated by churchill when he died 100 years ago today .'

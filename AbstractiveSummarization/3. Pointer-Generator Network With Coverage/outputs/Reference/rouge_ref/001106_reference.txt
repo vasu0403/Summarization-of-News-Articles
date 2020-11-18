@@ -1,0 +1,3 @@
+b'drunk teenage boy climbed into lion enclosure at zoo in west india .'
+b"rahul kumar , 17 , ran towards animals shouting ` today i kill a lion ! '"
+b'fortunately he fell into a moat before reaching lions and was rescued .'

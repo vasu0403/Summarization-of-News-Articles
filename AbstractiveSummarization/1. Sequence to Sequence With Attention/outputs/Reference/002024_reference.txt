@@ -1,0 +1,9 @@
+b'warning : graphic video .'
+b"video of eric harris 's shooting released by tulsa county sheriff 's office ."
+b'shows deputies chasing harris , 44 , through tulsa , oklahoma , on april 2 .'
+b"they tackle him to ground ; reserve deputy robert bates shouts ` taser ! '"
+b'but instead of pulling out taser , he takes out service weapon and fires .'
+b"bates says , ' i shot him ! i 'm sorry ! ' , while harris begins yelping in pain ."
+b"suspect , being held down by his neck , then says : ` i 'm losing my breath '"
+b"other unidentified cops tell him , ` f *** your breath , ' and ` shut the f *** up '"
+b'harris was later hospitalized , died an hour later ; investigation ongoing .'

@@ -1,0 +1,3 @@
+b'jamie peacock scored two tries for leeds in their win over salford .'
+b"the victory is the super league leaders ' 20th in a row over the red devils ."
+b'the rhinos have now won their last five matches on the bounce .'

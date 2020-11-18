@@ -1,0 +1,3 @@
+b"john clarkson 's chocolate pie is covered in pastry before being battered ."
+b"` pie-egg-ra ' dish sold at mr eaters fish and chips in preston , lancashire ."
+b'each expertly baked and fried pie contains one and a half creme eggs .'

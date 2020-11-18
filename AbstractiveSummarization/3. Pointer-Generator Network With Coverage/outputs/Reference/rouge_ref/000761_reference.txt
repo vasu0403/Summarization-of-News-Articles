@@ -1,0 +1,3 @@
+b"`` the late show with david letterman '' concludes may 20 ."
+b"letterman 's guests will include oprah winfrey and bill murray ."
+b'stephen colbert takes over the slot september 8 .'

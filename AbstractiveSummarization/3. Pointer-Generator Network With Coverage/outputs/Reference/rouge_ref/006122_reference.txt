@@ -1,0 +1,4 @@
+b"wallaby has been filmed ` punching ' a wombat in a victorian national park ."
+b'the wombat approached the unsuspecting wallaby and was met with a fist .'
+b'both animals went back to grazing in the area straight after the encounter .'
+b'no animals were harmed during the writing of this article .'

@@ -1,0 +1,3 @@
+b"kayahan wrote some of turkey 's best-loved pop songs ."
+b'the singer was first diagnosed with cancer in 1990 .'
+b'he most recently performed in february in istanbul .'

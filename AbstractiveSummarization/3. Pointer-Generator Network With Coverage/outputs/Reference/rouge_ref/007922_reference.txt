@@ -1,0 +1,3 @@
+b'those named nigel are twice as likely to vote ukip , according to research .'
+b'the three names most likely to vote tory are charlotte , fiona and pauline .'
+b'and those named michelle , june or andy are likely to vote for labour .'

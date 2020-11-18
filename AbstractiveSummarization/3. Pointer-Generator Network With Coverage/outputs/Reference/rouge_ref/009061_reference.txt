@@ -1,0 +1,5 @@
+b'new $ 2 coin minted to mark the 100th anniversary of gallipoli landing .'
+b"symbolic red poppy design used with the words ` lest we forget '"
+b'one and a half million coins released into circulation over coming weeks .'
+b"coin part of australian mint 's official anzac centenary coin program ."
+b'mint is one of two in the world which produces colour print on coins .'

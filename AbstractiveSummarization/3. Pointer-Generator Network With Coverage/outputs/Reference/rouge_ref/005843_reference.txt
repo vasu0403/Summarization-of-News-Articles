@@ -1,0 +1,3 @@
+b'pizza hut worker from alberta , canada , got a cold and called their gp .'
+b"doctor wrote letter to their employer saying they do n't need a sick note ."
+b"opens the letter praising patient for ` sensibly staying home from work '"

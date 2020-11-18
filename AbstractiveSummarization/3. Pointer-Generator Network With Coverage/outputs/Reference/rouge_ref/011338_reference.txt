@@ -1,0 +1,3 @@
+b'craig lister , 54 , from watford , is on hormone therapy for prostate cancer .'
+b'this starves cancer cells by reducing levels of testosterone in the body .'
+b"one side-effect is hot flushes : ' i have about ten to 12 flushes a day '"

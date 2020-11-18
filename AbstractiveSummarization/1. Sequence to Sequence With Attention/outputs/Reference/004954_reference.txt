@@ -1,0 +1,4 @@
+b"chloe the wombat has lived at sydney 's taronga zoo since june 2014 ."
+b'she was rescued after her mother was killed by a car .'
+b'she was recently moved into new digs with a couple of echidnas .'
+b"when she 's not napping she follows zoo keeper evelyn weston around ."

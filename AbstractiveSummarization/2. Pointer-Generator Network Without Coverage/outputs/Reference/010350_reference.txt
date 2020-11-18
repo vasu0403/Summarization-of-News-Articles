@@ -1,0 +1,3 @@
+b'barry bonds has been cleared legally after 11\xc2\xa01/2 years in court .'
+b"when he answered a question about steroid injections by saying he was ' a celebrity child , ' he was convicted of obstruction of justice ."
+b"a federal court ruled his meandering answer before a grand jury in 2003 was not material to the government 's investigation into illegal steroids ."

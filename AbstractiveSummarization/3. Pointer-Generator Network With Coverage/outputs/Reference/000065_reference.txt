@@ -1,0 +1,3 @@
+b"`` the price is right '' gives away a car ... accidentally ."
+b'a model makes a big mistake during a game .'
+b'host drew carey thought the error was hilarious .'

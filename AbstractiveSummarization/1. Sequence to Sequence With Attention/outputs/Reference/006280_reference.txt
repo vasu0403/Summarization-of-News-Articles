@@ -1,0 +1,6 @@
+b'news corp australia ceo julian clarke gave evidence at a corporate tax inquiry today .'
+b'mr clarke engaged in a fiery sparring match with greens leader christine milne .'
+b'ms milne expressed a dim view of the australian newspaper , which is published by news corp australia .'
+b"` you 're a minority , ' mr clarke argued ."
+b"` not according to sales , ' ms milne responded ."
+b'executives from google , microsoft and apple also appeared at the hearing in sydney .'

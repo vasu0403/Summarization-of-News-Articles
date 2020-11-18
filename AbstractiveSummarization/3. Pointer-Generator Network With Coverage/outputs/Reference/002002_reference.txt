@@ -1,0 +1,3 @@
+b'liverpool suffered 4-1 premier league defeat by rivals arsenal .'
+b"the defeat greatly reduced liverpool 's chances of top four finish ."
+b'brendan rodgers admits top players want champions league football .'

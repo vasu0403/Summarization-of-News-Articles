@@ -1,0 +1,4 @@
+b'david letterman made the joke while warming up his late show audience .'
+b"college staffer asked what advice the ` scandal-scarred ' comic could give ."
+b"the host told them ` treat a lady like a wh -- e , and a wh -- e like a lady '"
+b"joke was met with stunned silence with some branding it ` disrespectful '"

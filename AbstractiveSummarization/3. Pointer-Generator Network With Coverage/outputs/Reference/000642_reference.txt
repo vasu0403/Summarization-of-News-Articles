@@ -1,0 +1,2 @@
+b'toshiba tests robotic greeter at upscale tokyo department store .'
+b"more japanese businesses are testing out robots as possible solution to japan 's shrinking workforce ."

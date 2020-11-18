@@ -1,0 +1,4 @@
+b'manchester united beat manchester city 4-2 at old trafford .'
+b'louis van gaal thanks united fans for their patience .'
+b'united now four points ahead of city in third place in premier league .'
+b'van gaal endured tough start to the season with a loss at home to swansea on the opening day and a 4-0 defeat by mk dons .'

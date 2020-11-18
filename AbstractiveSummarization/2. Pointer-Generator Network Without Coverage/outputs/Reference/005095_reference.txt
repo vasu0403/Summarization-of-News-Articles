@@ -1,0 +1,4 @@
+b"apple 's first generation ipad launched on 3 april 2010 ."
+b'in its five years on the market , 225 million devices have been sold .'
+b'but larger smartphones and smart watches may herald its end .'
+b'sales for the ipad dropped 18 per cent in the final quarter of 2014 .'

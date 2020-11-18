@@ -1,0 +1,3 @@
+google has announced a tool that locates missing handsets simply by searching for the term ` find my phone ' on the site 's homepage .
+it works with all android phones that have the latest google app installed , and it appears to only work when you 're signed into their google account on chrome .
+it works with all android phones that have the latest google app installed and when the user is signed into their google account on chrome .

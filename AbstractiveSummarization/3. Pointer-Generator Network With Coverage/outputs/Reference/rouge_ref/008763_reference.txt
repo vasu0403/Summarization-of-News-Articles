@@ -1,0 +1,6 @@
+b"the state library is showing a collection of photographs taken in the 1800 's by the first hand held camera ."
+b"the photographs were taken in the 1880 's by arthur syer , a 27-year old man living in sydney ."
+b'the hand held camera was the first time people could be photographed without their knowledge .'
+b"amateur photographers using the ` detective camera ' initiated the first talks about surveillance and privacy laws ."
+b"this was also the first chance people had to use a camera if they were n't trained in the science behind photography ."
+b'the exhibition will run from april 4 to august 23 .'

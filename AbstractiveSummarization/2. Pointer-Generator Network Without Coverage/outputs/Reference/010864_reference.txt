@@ -1,0 +1,4 @@
+b'mexican restaurant has decided to tap into $ 70 billion food delivery market .'
+b'fast-casual chain will work with the postmates app to allow mobile orders .'
+b'app works in similar way to uber , using hired drivers to deliver the food .'
+b"but the chain will add a 9 % service charge - on top of postmates ' $ 5 rate ."

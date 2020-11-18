@@ -1,0 +1,3 @@
+b'google has been steadily revealing some of the biggest questions its users have typed into the search engine regarding 2016 presidential candidates .'
+b"many of the questions focused on candidates ' ages and heights ."
+b'others have asked about where candidates are from and their political party affiliations .'

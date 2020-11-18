@@ -1,0 +1,4 @@
+b"lewis hamilton 's fortune has spiralled by # 20m to # 88m in the past year ."
+b'wayne rooney is now second in the sunday times sport rich list .'
+b"the manchester united captain 's fortune is up # 12m to # 72m ."
+b'f1 driver jenson button is # 1m behind rooney in third place .'

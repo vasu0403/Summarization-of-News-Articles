@@ -1,0 +1,3 @@
+b"a boston-area dog ate three of her owner 's wristwatches ."
+b'a veterinarian removed about 1 lb . of watch parts from her stomach .'
+b'mocha the doberman is now doing well .'

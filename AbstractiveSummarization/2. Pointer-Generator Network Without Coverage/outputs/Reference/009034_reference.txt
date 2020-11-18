@@ -1,0 +1,4 @@
+b'enigmatic app is the brainchild of a developer in athens , greece .'
+b'it has a black screen with fiendish clues and no hints or images at all .'
+b"about 10 % of players so far have completed the app 's 50 levels ."
+b'equally mysterious episode two of none * is expected this summer .'

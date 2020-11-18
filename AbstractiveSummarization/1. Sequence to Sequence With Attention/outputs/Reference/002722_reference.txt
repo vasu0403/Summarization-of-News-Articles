@@ -1,0 +1,5 @@
+b'lewis hamilton won the chinese gp with nico rosberg finishing second .'
+b'rosberg accused his team-mate of being selfish by driving too slow .'
+b'mika hakkinen says hamilton was right to worry about his own race .'
+b'read : hamilton insists rosberg was not trying to win in shanghai .'
+b"read : hamilton ready for rosberg 's underhand tactics ."

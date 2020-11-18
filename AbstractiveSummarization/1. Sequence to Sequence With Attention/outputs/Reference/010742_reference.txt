@@ -1,0 +1,4 @@
+b'it only works for english-language readers using an android phone .'
+b"twitter 's ` highlights ' are delivered using an opt-in push notification ."
+b'works based on accounts and topics popular among people you follow .'
+b"it also looks at tweets from people you 're closely tied to or in your area ."

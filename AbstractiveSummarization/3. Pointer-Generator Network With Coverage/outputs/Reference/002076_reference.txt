@@ -1,0 +1,4 @@
+b"premier league footballers are voting for pfa players ' player of the year ."
+b'eden hazard and harry kane are the leading candidates for the award .'
+b'sergio aguero , alexis sanchez and david de gea are also contenders .'
+b'luis suarez won last year with gareth bale taking the prize the year before .'

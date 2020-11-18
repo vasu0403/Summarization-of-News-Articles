@@ -1,0 +1,2 @@
+researchers have found a way to intercept a person 's biometric data after it is captured by a built-in scanner , but before it becomes encrypted .
+tao wei and yulong zhang from security firm fireeye are expected to discuss their findings at this week 's rsa conference in san francisco .

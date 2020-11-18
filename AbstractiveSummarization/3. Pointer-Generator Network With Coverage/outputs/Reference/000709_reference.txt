@@ -1,0 +1,2 @@
+b'show will return with a one-hour special , followed by spinoff , star john stamos says .'
+b"he announced the show monday night on `` jimmy kimmel live ''"

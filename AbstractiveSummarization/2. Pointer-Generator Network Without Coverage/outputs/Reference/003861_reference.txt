@@ -1,0 +1,3 @@
+b'davy condon has been forced to retire due to a spinal injury .'
+b"the irish jockey fell during this month 's grand national at aintree ."
+b'condon was advised to retire after seeing a specialist on wednesday .'

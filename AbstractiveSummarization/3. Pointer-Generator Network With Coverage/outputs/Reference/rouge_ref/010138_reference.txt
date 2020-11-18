@@ -1,0 +1,4 @@
+b'noaa fisheries in maryland says humpback whale is no longer endangered .'
+b'they want to break up global population into 14 sub-populations .'
+b"ten of these will be ` not at risk ' , two ` threatened ' and two still ` endangered '"
+b"follows conservation ` success story ' that raised numbers to 90,000 ."

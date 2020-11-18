@@ -1,0 +1,9 @@
+b'personal trainer james staring advises how to achieve a flat stomach .'
+b'says eating carbohydrates after exercise will stop them being stored as fat .'
+b'exercises that use more muscle groups will help speed up the metabolism .'
+b'writing down how a you feel after food stops you eating mindlessly .'
+b'what is my energy level like ?'
+b'how full do i feel ?'
+b'i have a high energy level/i feel satisfied and not hungry .'
+b'i have a moderate energy level/i feel just a bit peckish .'
+b"i have no energy/i could easily gnaw off my own arm i 'm so hungry ."

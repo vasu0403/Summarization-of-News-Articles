@@ -1,0 +1,3 @@
+the interactive map was created by writer levi pearson , who used a ufo sighting dataset from the national ufo reporting centre and open source software from cartodb .
+it was created by writer levi pearson , who used a ufo sighting dataset from the national ufo reporting centre and open source software from cartodb .
+the number of sightings increases dramatically between the 1940s and the 1960s across the world .

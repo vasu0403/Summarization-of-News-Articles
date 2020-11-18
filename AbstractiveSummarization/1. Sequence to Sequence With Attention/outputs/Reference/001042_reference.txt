@@ -1,0 +1,4 @@
+b'this page includes the show transcript .'
+b'use the transcript to help students with reading comprehension and vocabulary .'
+b'at the bottom of the page , comment for a chance to be mentioned on cnn student news . you must be a teacher or a student age 13 or older to request a mention on the cnn student news roll call .'
+b"the weekly newsquiz tests students ' knowledge of events in the news ."

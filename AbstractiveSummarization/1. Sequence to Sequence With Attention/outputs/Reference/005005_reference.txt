@@ -1,0 +1,4 @@
+b'scientists say early dna-like fragments guided their own growth .'
+b'they claim the process can drive the formation of chemical bonds .'
+b'these connect short dna chains to form long ones for life to evolve .'
+b'this self-assembly capability has been shown to take place in rna .'

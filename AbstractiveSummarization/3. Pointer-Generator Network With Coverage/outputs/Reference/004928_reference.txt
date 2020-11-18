@@ -1,0 +1,3 @@
+b'look at the hybrid image at a normal viewing distance from the screen .'
+b"if the image of einstein does n't appear , it may mean you have bad vision ."
+b'illusion shows how we focus on different features depending on distance .'

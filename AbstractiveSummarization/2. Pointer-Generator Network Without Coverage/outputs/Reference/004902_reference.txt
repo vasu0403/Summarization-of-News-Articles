@@ -1,0 +1,3 @@
+b'london mayor praised the coalition for having kept down unemployment .'
+b"he said creation of more jobs was ` one of moral triumphs ' of government ."
+b'comments will be seen as attempt to position himself as future party leader .'

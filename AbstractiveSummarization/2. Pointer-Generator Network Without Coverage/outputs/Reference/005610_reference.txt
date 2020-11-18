@@ -1,0 +1,3 @@
+b"jan hansen 's giant egg is the equivalent of 1,600 chocolate bars ."
+b"egg will be sold at hansen 's chocolate house in folkingham linconshire ."
+b'all proceeds raised from the sale to be donated to st barnabas hospice .'

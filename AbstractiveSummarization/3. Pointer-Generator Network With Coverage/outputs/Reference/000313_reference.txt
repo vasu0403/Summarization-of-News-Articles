@@ -1,0 +1,2 @@
+b'president obama attends howard university roundtable on climate change and public health .'
+b"linking climate change to how it affects a person 's health is a new way to talk about the subject ."

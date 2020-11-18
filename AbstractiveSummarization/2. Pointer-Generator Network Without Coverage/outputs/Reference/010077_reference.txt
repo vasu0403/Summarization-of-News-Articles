@@ -1,0 +1,4 @@
+b"los angeles is one of world 's busiest , yet receives negative comments ."
+b'hurghada airport in the heat of egypt , yet no air-conditioning on departure .'
+b"laguardia in new york described as the ` most frustrating ' airport ."
+b'customers complain everything at luton airport is chargeable .'

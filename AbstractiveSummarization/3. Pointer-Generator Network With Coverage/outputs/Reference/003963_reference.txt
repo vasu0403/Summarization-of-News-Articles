@@ -1,0 +1,4 @@
+b"manuel pellegrini 's job at manchester city is precarious ."
+b'the premier league champions have struggled this season .'
+b'city met with jurgen klopp two years ago but opted for pellegrini .'
+b'the dortmund manager will leave the club at the end of this campaign .'

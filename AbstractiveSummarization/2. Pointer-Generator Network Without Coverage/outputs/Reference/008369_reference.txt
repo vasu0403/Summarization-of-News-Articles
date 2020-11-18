@@ -1,0 +1,4 @@
+b'researchers ran a 10-hertz current through brains of 20 volunteers .'
+b'they wanted to stimulate alpha wave oscillations linked to creativity .'
+b'these oscillations are thought to be impaired in people with depression .'
+b'team are now hoping to use the technique to treat depressed people .'

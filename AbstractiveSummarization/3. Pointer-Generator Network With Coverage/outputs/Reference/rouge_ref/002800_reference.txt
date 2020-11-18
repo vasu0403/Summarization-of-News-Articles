@@ -1,0 +1,3 @@
+b'manchester united defeated city 4-2 in the premier league on sunday .'
+b"wayne rooney has revealed plans to exploit blues ' work-shy midfield ."
+b'champions are considering selling the likes of yaya toure and samir nasri .'

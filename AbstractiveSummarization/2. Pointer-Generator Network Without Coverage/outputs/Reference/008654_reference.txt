@@ -1,0 +1,4 @@
+b"the oak bottle claims to ` oak age ' wine in hours rather than years ."
+b'the product retails at # 50 and promises to impart authentic aged flavours .'
+b'oz clarke says its a fun product and would make an interesting gift .'
+b'visit oakbottle.com . the pocket wine book by oz clarke is published by pavilion books at # 9.99 .'

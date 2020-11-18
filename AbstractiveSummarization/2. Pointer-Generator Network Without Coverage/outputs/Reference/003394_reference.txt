@@ -1,0 +1,4 @@
+b'michael van gerwen and raymond van barneveld are in manchester .'
+b'they will contest the ninth leg of the premier league darts tournament .'
+b'van gerwen is undefeated , van barneveld could be eliminated on thursday .'
+b"the dutch duo visited manchester united 's old trafford on wednesday ."

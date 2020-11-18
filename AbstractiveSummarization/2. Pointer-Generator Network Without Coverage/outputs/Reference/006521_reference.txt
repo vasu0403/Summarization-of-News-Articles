@@ -1,0 +1,3 @@
+b'david cameron will pledge to sell lloyds shares if he wins the election .'
+b"government hold shares after labour 's # 20billion bailout in 2008 ."
+b'the # 4billion sale would be the biggest privatisation since the 1980s .'

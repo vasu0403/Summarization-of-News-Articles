@@ -1,0 +1,3 @@
+b'becky james is in her last week of rehab following a serious knee injury .'
+b"james is hoping she can resume ` normal training ' in upcoming weeks ."
+b'the 23-year-old supported boyfriend george north during six nations .'

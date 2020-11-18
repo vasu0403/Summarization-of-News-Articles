@@ -1,0 +1,9 @@
+b"the city of knox council made an ` administrative decision ' to kill izzy ."
+b"an appeal to save the dog has begun in australia 's high court on tuesday ."
+b'the staffordshire terrier bit a woman in august 2012 .'
+b"she suffered a 1.5 cm cut but it was classed as a ` serious injury '"
+b'council decided to destroy izzy during a council panel meeting .'
+b'normally a magistrate decides whether a dog should be killed .'
+b'the barristers animal welfare panel are fighting her case at no cost .'
+b'if they win the council will have to pay legal fees .'
+b'rspca sa offered to take izzy and assess her for rehabilitation .'

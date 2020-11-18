@@ -1,0 +1,3 @@
+b"michael van gerwen booked place in next month 's play-offs ."
+b'the dutchman beat james wade 7-0 in betway premier league in cardiff .'
+b"he was beaten 7-5 by gary anderson in the night 's finale ."

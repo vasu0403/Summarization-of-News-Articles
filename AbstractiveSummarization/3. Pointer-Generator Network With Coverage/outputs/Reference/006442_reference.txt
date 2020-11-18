@@ -1,0 +1,3 @@
+b'poets house is a swish new hotel in ely , three minutes from the cathedral .'
+b'it comes complete with 21 chic rooms - and complimentary valet parking .'
+b"it used to be an old people 's home , but is a world remove from this era ."

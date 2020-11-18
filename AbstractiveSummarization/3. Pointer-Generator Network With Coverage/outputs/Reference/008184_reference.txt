@@ -1,0 +1,4 @@
+b'those who often dine out are more likely to have elevated blood pressure .'
+b'eating out is associated with higher calorie , saturated fat and salt intake .'
+b"researchers found 27.4 % of singapore 's population had pre-hypertension ."
+b'of these , more than a third ate more than 12 meals out every week .'

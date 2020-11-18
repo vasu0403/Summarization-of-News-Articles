@@ -1,0 +1,5 @@
+b'ferrari won the second grand prix of the season in malaysia .'
+b"sebastian vettel 's victory was a shock given mercedes ' strong start ."
+b"but ferrari 's technical director believes mercedes will be strong in china ."
+b'the cooler climate should suit lewis hamilton and nico rosberg .'
+b'click here for the latest f1 news ahead of the 2015 chinese grand prix .'

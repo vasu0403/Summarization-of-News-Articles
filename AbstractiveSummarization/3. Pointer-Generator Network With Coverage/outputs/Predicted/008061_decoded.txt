@@ -1,0 +1,3 @@
+map reveals average yearly counts of lightning flashes per square kilometre from 1995 to 2013 .
+results show that the highest amounts of lightning flashes per square kilometre from 1995 to 2013 .
+areas with the fewest number of flashes each year are grey and purple .

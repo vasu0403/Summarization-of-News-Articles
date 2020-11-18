@@ -1,0 +1,8 @@
+b"queensland health confirms there 's a shortage of whooping cough vaccine ."
+b'there is an insufficient supply of a booster which is used for adults .'
+b'medical professionals insist the shortage will not affect immunisation program for babies , children and pregnant women .'
+b"it 's australia 's least well-controlled of all vaccine-preventable diseases ."
+b'riley hughes died in a perth hospital at just 32 days old on march 17 .'
+b'his parents are campaigning for adults to vaccinate themselves and their children to avoid other preventable infant deaths .'
+b"whooping cough is ` highly infectious ' and lethal in babies ."
+b'immunisation against it is available for children from two months old .'

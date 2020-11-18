@@ -1,0 +1,4 @@
+b'the hot air balloon crashed into the tower during a training session .'
+b'video footage shows balloon breaking apart as basket plummets .'
+b'people on board received cuts and bruises but all survived .'
+b"the terrifying incident took place in russia 's dmitrov district ."

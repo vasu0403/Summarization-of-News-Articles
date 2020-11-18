@@ -1,0 +1,5 @@
+b'lionel messi , luis suarez and neymar have scored 93 goals this season .'
+b"messi , thierry henry and samuel eto'o scored 100 goals in 2008-09 season ."
+b'the trio will attempt to steer barcelona into champions league semi-final .'
+b"luis enrique 's side hold a 3-1 advantage from the quarter-final first leg ."
+b'read : messi has a place at barca until he retires , claims club president .'

@@ -1,0 +1,4 @@
+b'election candidates failed to check spelling , punctuation and grammar .'
+b"derek tanswell and sharon snook 's leaflet said ukip will protect ` boarders '"
+b"teacher , who helps children born abroad with their english , responded by circling mistake and said : ' i think you mean borders '"
+b'mr tanswell left lib dems last month and claims they are behind leaflet .'

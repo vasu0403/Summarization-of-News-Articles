@@ -1,0 +1,3 @@
+b'paul gambaccini has blasted the bbc for destroying the top 40 show .'
+b"he blamed presenters ' obsession with discussing pop stars ' sex appeal ."
+b"` the chart show has become an extension of its presenter 's personality '"

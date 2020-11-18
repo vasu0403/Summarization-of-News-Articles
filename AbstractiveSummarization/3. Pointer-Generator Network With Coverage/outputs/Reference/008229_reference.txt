@@ -1,0 +1,3 @@
+b"grenada is known as the ` island of spice ' , and is full of foodie flavours ."
+b'celebrity chef rosemary shrager spent a week on the caribbean island .'
+b"favourite local dishes include goat 's cheese and salt fish fritters ."

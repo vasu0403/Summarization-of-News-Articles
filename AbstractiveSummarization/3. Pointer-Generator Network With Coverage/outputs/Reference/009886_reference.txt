@@ -1,0 +1,4 @@
+b'estimates suggest around 1,000 iphone and ipad apps are vulnerable .'
+b"examples include uber , microsoft 's onedrive and movies by flixster ."
+b'the flaw is with software called afnetworking used by developers .'
+b'sourcedna has released a search tool to see if your phone is at risk .'

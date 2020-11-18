@@ -1,0 +1,4 @@
+b'the app was designed by researchers at the university of michigan .'
+b'participants complete health tracking surveys via an app on facebook .'
+b'they can also send a spit sample that is tied to the results of the surveys .'
+b'researchers said they hope to use results to help find cures for diseases .'

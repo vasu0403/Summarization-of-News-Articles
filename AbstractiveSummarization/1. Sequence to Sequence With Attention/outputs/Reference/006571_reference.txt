@@ -1,0 +1,3 @@
+b'patrick kramer , 33 , is a hyper-realist artist from springville , utah .'
+b'works from photos and builds up layers of oil paints on canvas .'
+b'each work of art takes anywhere between 50 to 300 hours to complete .'

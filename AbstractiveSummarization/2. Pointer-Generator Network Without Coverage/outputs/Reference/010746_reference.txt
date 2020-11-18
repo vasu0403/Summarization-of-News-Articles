@@ -1,0 +1,4 @@
+b'australian researchers have tested their drone running companion .'
+b'called joggobot it is designed to float in front of jogger when they run .'
+b'technology could allow it to track the speed and direction of the runner .'
+b'and it could be used for other sports like cycling and rowing .'

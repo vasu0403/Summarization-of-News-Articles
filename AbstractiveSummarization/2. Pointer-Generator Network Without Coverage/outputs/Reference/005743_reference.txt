@@ -1,0 +1,3 @@
+b'musician sam smith , 22 , has lost three stone over the last year .'
+b"british singer has followed amelia freer 's advice and slimmed down ."
+b"now a fashion icon , he 's sharing his daily clothes diary with vogue ."

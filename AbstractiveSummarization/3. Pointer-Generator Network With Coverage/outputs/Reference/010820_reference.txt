@@ -1,0 +1,4 @@
+b'weather experts predict temperatures will dip by around ten degrees .'
+b'plunge means britain will be colder than moscow , stockholm and finland .'
+b'arctic airmass from iceland to blame for the sharp change in temperature .'
+b'forecaster also predict thousands of runners could be in for wet london marathon .'

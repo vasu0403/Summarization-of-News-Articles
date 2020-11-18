@@ -1,0 +1,4 @@
+b'the u.s. census bureau published 2014 childlessness rates on tuesday .'
+b'95.9 percent of women ages 15 to 19 were childless in 2014 , according to the findings . in 2012 , that number was 94.9 percent .'
+b'75.2 percent of women ages 20 to 24 percent were childless last year , researchers found , up from 71.4 percent .'
+b'49.6 percent of women 25 to 29 were childless in 2014 , as opposed to 49.4 percent in 2012 .'

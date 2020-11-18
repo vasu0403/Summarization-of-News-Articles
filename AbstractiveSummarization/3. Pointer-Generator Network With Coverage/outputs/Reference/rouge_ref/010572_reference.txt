@@ -1,0 +1,4 @@
+b"the tories publish a separate ` english manifesto ' for the first time ."
+b"mr cameron said delivering ` home rule ' for england is a top priority ."
+b'tory government will introduce the new system before march 2016 budget .'
+b'it will allow english mpsto set separate rate of income tax to scotland .'

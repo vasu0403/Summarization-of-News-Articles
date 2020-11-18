@@ -1,0 +1,3 @@
+b'newcastle have lost their last four premier league games .'
+b"john carver 's side lost 1-0 to sunderland in the tyne-wear derby ."
+b'the magpies have won just twice in 2015 ahead of their anfield trip .'

@@ -1,0 +1,3 @@
+b'a company called ultrahaptics has developed a technology to create 3d shapes in mid-air .'
+b'a tactile sensation is provided by ultrasonic waves , which alter air pressure .'
+b'the technology could be applied to electronic devices , car dashboards , and virtual reality headsets .'

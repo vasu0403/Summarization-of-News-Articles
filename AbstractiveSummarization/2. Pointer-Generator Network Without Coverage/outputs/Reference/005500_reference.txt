@@ -1,0 +1,4 @@
+b'dr joe hanson is a science writer and biologist based in austin , texas .'
+b"he calculated what a hypothetical single ` human molecule ' might look like ."
+b'it would contain 375 million hydrogen atoms and 85 million carbon atoms .'
+b'he also calculated that all the chemical elements in the human body could be worth upto $ 2,000 if they were isolated and sold on the open market .'

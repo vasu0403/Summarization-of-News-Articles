@@ -1,0 +1,3 @@
+b'google maps has a temporary pac-man function .'
+b"google has long been fond of april fools ' day pranks and games ."
+b'many people are turning their cities into pac-man courses .'

@@ -1,0 +1,3 @@
+b'designed for use on light tactical vehicles such as the humvee .'
+b'initial trials with low power lasers have already taken place .'
+b'the 30kw system is expected to be ready for field testing in 2016 .'

@@ -1,0 +1,4 @@
+b'the $ 39.99 -lrb- # 26 -rrb- gadget is called the nanoheat wireless heated mug .'
+b'it keeps hot drinks at between 68 and 71 \xc2\xb0c -lrb- 155 and 160 \xc2\xb0f -rrb- for 45 minutes .'
+b'mug can be used more than seven times before it needs to be charged .'
+b'and it can be charged wirelessly or using a traditional usb cord .'

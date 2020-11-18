@@ -1,0 +1,3 @@
+b'maria sharapova will play for russia in the fed cup semi-finals .'
+b'russia host germany in the 2014 winter olympics host city of sochi .'
+b"playing helps sharapova become eligible for next year 's summer olympics ."

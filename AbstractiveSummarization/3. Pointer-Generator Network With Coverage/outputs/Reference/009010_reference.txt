@@ -1,0 +1,4 @@
+b'general motors unveiled their concept car at an event in shanghai .'
+b"chevrolet-fnr has ` dragonfly ' swing doors and ` crystal laser headlights '"
+b'it is self-driving , electric , and the front chairs can swivel round .'
+b'and using iris recognition software you can start it using just your eyes .'

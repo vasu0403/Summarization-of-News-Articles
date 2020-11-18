@@ -1,0 +1,3 @@
+b'two parrots were home alone when a fire erupted in boise , idaho .'
+b"started calling ` help ! ' and ` fire ! ' , crew thought they were human voices ."
+b'both were pulled from the wreckage and treated with oxygen masks .'

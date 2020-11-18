@@ -1,0 +1,3 @@
+b'the research looked at pomc neurons that work toregulate appetite .'
+b'when pomc neurons are absent , animals and humans grow obese .'
+b"this also happens when genes inside the pomc cells are n't working ."

@@ -1,0 +1,3 @@
+b"oxford won their 12th women 's boat race in 16 years ."
+b'the dark blues triumphed by six and a half lengths .'
+b"it was the first time the women 's race has been raced over the same course and on the same day as the men 's event ."

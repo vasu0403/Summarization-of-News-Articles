@@ -1,0 +1,3 @@
+b'in a new poll , diana was the favourite name for the second royal baby .'
+b"alice and charlotte were the second favourite names if it 's a girl ."
+b"if it 's a boy , then the favourite name is james , followed by alexander ."

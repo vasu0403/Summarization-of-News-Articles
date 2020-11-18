@@ -1,0 +1,4 @@
+b"a ` blob ' of warm water 2,000 miles across is sitting in the pacific ocean ."
+b'it has been present since 2013 and causing fish to seek shelter elsewhere .'
+b'university of washington study says it could be responsible for droughts .'
+b'but it is not clear where the blob has come from - or how long it will stay .'

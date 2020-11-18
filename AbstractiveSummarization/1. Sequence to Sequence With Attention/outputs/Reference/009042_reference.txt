@@ -1,0 +1,4 @@
+b'the flexible aluminium battery was created at stanford university .'
+b'it consists of a negatively charged aluminium anode and a positively charged graphite cathode along with an ionic liquid electrolyte .'
+b"it sits in a flexible polymer-coated ` pouch ' and recharges in one minute ."
+b'but it currently offers just half the voltage of existing lithium-ion batteries .'

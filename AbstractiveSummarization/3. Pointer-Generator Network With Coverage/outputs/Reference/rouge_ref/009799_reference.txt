@@ -1,0 +1,5 @@
+b'bryan morseman , of bath , new york , won marathons on march 14 , 15 and 22 .'
+b"the 29-year-old 's winnings went toward medical bills for his nine-month-old son , who has spina bifida , a developmental congenital disorder ."
+b"the disorder develops in the womb when a baby 's spinal column does n't form properly ."
+b'morseman said his son leeim gives him inspiration to run the races .'
+b"he has won 23 of the 42 marathons he 's run since his first in 2008 ."

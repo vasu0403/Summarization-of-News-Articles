@@ -1,0 +1,2 @@
+mysterious app called none * gives users only one clue to get started and a keyboard to type their guesses .
+there are no images , music , animations , sound effects or hints to help users , or indication of what the purpose of the game is exactly .

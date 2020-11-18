@@ -1,0 +1,5 @@
+b'addison russell , 21 , was playing in his first home game for chicago cubs .'
+b'he was batting in the seventh inning when he swung at pitch and lost bat .'
+b"bat struck a fan sitting several rows behind the cubs ' on-deck circle ."
+b"fan suffered ` wounds ' but was conscious and taken to a nearby hospital ."
+b"russell saw fan get hit and said : ` words ca n't describe how bad i feel '"

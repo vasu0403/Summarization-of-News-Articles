@@ -1,0 +1,3 @@
+b'the earthquake that struck nepal has left thousands of nepalis without shelter .'
+b'torrential rains making situation worse ; food and drinking water supplies could become a serious issue soon .'
+b"it 's unclear how bad conditions are closer to the epicenter ."

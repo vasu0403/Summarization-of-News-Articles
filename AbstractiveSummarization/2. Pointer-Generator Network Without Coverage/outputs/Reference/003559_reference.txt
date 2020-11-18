@@ -1,0 +1,3 @@
+b'newcastle entertain swansea in the premier league on saturday .'
+b"newcastle 's 3-1 defeat vs tottenham was their sixth straight loss in league ."
+b'magpies sit seven points clear of the relegation zone with five games left .'

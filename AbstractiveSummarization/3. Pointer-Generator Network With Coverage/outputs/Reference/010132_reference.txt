@@ -1,0 +1,5 @@
+b'police found sid ahmed ghlam , 24 , bleeding heavily in southern paris .'
+b"they discovered an arsenal of ` weapons of war ' in his car parked nearby ."
+b'investigators searching his computer found documents mentioning isis .'
+b"police said the algerian national was in contact with a man in syria ` who clearly asked him to target a church '"
+b"dna also reportedly links him to sunday 's murder of aurelie chatelain ."

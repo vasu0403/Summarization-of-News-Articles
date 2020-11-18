@@ -1,0 +1,6 @@
+b'bad weather may destroy weekend plans in multiple states , with thunderstorms and tornadoes forecast to strike .'
+b'there was one tornado in florida and two tornadoes hit colorado thursday .'
+b'severe thunderstorms may take place in several states friday and affect metropolitan areas , including dallas and houston .'
+b'storms could also happen in the south and along the gulf coast saturday .'
+b'winds , tornadoes , and hail were forecast to be potential issues from friday through sunday .'
+b'the forecasts come after some parts of the country - including ohio , new york , minnesota , wisconsin and michigan - saw snow earlier this week .'

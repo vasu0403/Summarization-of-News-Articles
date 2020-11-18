@@ -1,0 +1,3 @@
+the app is now trying to cut through all the cosmetics to determine exactly how old do i look , it allows people to analyse any image found on bing , microsoft 's search engine , or upload their own .
+it even allows users to search for celebrities - and see what microsoft thinks their real ages are .
+it even allows users to search for celebrities and see what microsoft thinks their real ages are .

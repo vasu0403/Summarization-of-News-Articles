@@ -1,0 +1,5 @@
+b'a man rescued twice in the same night after falling from boat dock .'
+b"it happened at cockle bay wharf in sydney 's darling harbour ."
+b'the man fell in the first time and was rescued .'
+b'before paramedics could wrap him in a foil blanket he fell backwards again .'
+b"darling harbour is known for it 's treacherous waters ."

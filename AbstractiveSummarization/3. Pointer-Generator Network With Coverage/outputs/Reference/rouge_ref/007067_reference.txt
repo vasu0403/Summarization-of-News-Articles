@@ -1,0 +1,7 @@
+b'the queen is the most followed royal on twitter with 970,000 followers .'
+b"next most popular is prince charles , then spain 's king felipe ."
+b'prince harry and the duke and duchess of cambridge also popular .'
+b'spoof @queen_uk tops the lot with 1.25 m - more than the real queen .'
+b'top celebrities include katy perry , justin bieber and taylor swift .'
+b"uk 's top politician is david cameron and australia 's is tony abbott ."
+b"us president obama is the world 's most followed politician ."

@@ -1,0 +1,3 @@
+b'chelsea lead manchester city by six points at the premier league summit .'
+b"oscar scored in brazil 's recent 3-1 victory against france ."
+b'juventus scouts were present in paris to watch oscar in action .'

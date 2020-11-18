@@ -1,0 +1,6 @@
+b'new orleans pelicans beat the san antonio spurs 108-103 on wednesday .'
+b"oklahoma city thunder 's defeated minnesota timberwolves 138-113 ."
+b'new orleans pipped thunder to eighth seed in the west via tiebreaker .'
+b'brooklyn nets beat the orlando magic 138-113 in the eastern conference .'
+b'indiana pacers lost 95-83 to the memphis grizzlies .'
+b'results meant that brooklyn took the no 8 seed via the better tiebreaker .'

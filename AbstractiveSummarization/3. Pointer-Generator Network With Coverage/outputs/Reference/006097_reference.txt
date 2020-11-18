@@ -1,0 +1,4 @@
+b'the patent was filed in march 2011 and awarded to apple earlier this week .'
+b"it details a method of scanning a user 's face using the front-facing camera ."
+b'if the scanned face matches with a photo that was previously taken and stored , the phone unlocks automatically .'
+b"android lollipop already has a similar feature called ` trusted face '"

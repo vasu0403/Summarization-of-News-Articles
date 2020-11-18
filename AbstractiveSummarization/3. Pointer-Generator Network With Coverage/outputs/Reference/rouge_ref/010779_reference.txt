@@ -1,0 +1,3 @@
+b'charlie stayt made the error during live broadcast from southampton .'
+b"bbc presenter left out the letter ` c ' when he wrote word for third time ."
+b"many viewers took to twitter to complain about stayt 's mistake ."

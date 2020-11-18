@@ -1,0 +1,2 @@
+app uses a quick response code , or qr code , which is a form of barcode that the cameras of mobile phones are able to detect .
+under mr smagon 's concept , a code matched specifically to your app can be printed on your favourite mug or a fridge magnet .

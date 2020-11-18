@@ -1,0 +1,4 @@
+b"hackers reportedly wormed their way into the white house system by breaching the state department 's network first ."
+b'cyber-bandits took over a state department email account and sent phishing email containing malware to white house .'
+b'obama aide said white house in 2014 disclosed cyber intrusions that did not affect classified information .'
+b'six-month probe reportedly uncovered evidence pointing to hackers working on behalf of kremlin .'

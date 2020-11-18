@@ -1,0 +1,3 @@
+b'james anderson will earn his 100th test cap on monday .'
+b'england take on the west indies at the sir vivian richards cricket ground .'
+b"four wickets would take anderson past sir ian botham 's national record ."

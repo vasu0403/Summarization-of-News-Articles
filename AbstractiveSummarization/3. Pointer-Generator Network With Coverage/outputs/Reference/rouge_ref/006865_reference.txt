@@ -1,0 +1,4 @@
+b'researchers chose 120 passages from across all seven harry potter books .'
+b'these passages were read by participants while in an fmri scanner .'
+b'each was rated on how negative or positive , and how arousing they were .'
+b'scans revealed passages rated high for arousal activated parts of the brain associated with emotion , including the left amygdala .'

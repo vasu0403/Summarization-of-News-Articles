@@ -1,0 +1,4 @@
+b'due date believed to have been between last wednesday and yesterday .'
+b"kate , 33 , plans to give birth at st mary 's hospital in paddington , london ."
+b'she may have already spoken to doctors about option of being induced .'
+b"bookmaker 's 6/1 joint favourite for birth date is tomorrow and tuesday ."

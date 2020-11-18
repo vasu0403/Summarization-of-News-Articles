@@ -1,0 +1,4 @@
+b'researchers at the university of washington studied so-called telerobots .'
+b'they found robots designed for surgery could be hacked and manipulated .'
+b'this is because robots being tested were operated over public networks .'
+b'it allowed the researchers to access them and stop them working .'

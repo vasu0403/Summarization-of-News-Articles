@@ -1,0 +1,3 @@
+security researchers have found a way to detonate a person 's fingerprints on a samsung galaxy .
+it is believed to be ` leaking ' fingerprints , but it is used to monitor data .
+the device is used to monitor data from the sensor before being encrypted .

@@ -1,0 +1,2 @@
+b'new line cinema is reportedly planning a mariah carey christmas movie .'
+b"carey was queen of the '90s , and that decade is totally hot now ."

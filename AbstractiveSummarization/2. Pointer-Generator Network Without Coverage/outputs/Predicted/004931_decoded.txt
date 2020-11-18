@@ -1,0 +1,3 @@
+researchers from london and edinburgh have developed a computer that can collate meteorological information and then produce forecasts as if they were written by a human .
+it uses a process known as ` natural language generation ' -lrb- nlg -rrb- .
+it uses a process known as ` natural language generation ' -lrb- nlg -rrb- .

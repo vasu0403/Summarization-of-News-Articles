@@ -1,0 +1,4 @@
+b'brian gewirtz , 20 , left his home in brooklyn , new york , on february 17 .'
+b"he did n't return , sparking a frantic search from his family ."
+b'his body was found in a creek near the marine park golf club .'
+b'police said he may have walked into the park and got disorientated .'

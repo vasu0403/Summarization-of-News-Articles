@@ -1,0 +1,3 @@
+b"drive began on march 22 near san francisco 's golden gate bridge ."
+b'car arrived in new york city today - before auto show opens on april 3 .'
+b'drive used a specially adapted audi sq5 and drove itself 90 % of the time .'

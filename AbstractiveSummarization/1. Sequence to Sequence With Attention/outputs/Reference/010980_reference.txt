@@ -1,0 +1,5 @@
+b'point-of-sale shutdown is effecting 8,000 starbucks locations in us and canada .'
+b'company said in statement glitch was caused by a failure during a daily system refresh .'
+b"glitch also affected starbucks ' evolution fresh and teavana stores ."
+b'many starbucks locations closed their doors so as not to give away free drinks .'
+b"coffeehouse chain said in update on its site stores are expected to open for ` business as usual ' saturday ."

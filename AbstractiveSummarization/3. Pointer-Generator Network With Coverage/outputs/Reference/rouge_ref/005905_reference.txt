@@ -1,0 +1,3 @@
+b'temperatures at esperanza base on antarctic peninsula reached 63.5 \xc2\xb0f .'
+b'area was hit by two day heatwave that beat previous temperature records .'
+b'antarctic peninsula is one of the fastest warming areas on the continent .'

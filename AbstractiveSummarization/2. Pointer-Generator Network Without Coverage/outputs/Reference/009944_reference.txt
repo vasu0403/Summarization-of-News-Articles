@@ -1,0 +1,6 @@
+b'the rare albino dolphin lives at the taiji whale museum in southern japan .'
+b"its thin skin means it changes colour when it 's emotional like a human ."
+b'the animal was captured during the annual dolphin hunt in taiji last year .'
+b'activists filed a lawsuit against the museum for withholding information .'
+b"but the museum claims the animal is kept ` physically and mentally healthy '"
+b'researchers from the museum released a study on the animal in march .'

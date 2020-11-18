@@ -1,0 +1,3 @@
+b'callum wilson opened the scoring for bournemouth in the fourth minute .'
+b"it was wilson 's 22nd goal of the season for the cherries ."
+b'bournemouth are ahead of norwich at the top of the table by one point .'

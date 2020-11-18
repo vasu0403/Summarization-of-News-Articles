@@ -1,0 +1,4 @@
+b'from today , emoji will now work within hashtags on instagram .'
+b'users add them to posts , search on explore tab and tap them in captions .'
+b'hashtags work with single and multiple emoji , as well as with text .'
+b'app has also added three new filters called lark , reyes and juno .'

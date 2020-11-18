@@ -1,0 +1,3 @@
+b'according to scientists , perfume really can make us more attractive .'
+b'lavender has been shown to calm and soothe the mind .'
+b'citrus smells evoke images of health and cleanliness .'

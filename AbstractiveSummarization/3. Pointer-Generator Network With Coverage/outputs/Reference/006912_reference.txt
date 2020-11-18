@@ -1,0 +1,5 @@
+b"the omura 's whale was discovered on a remote exmouth beach in wa ."
+b'it was washed up on the beach by tropical cyclone olwyn .'
+b'authorities found it hard at first to identify the 5.68 m juvenile female .'
+b"however dna profiling confirmed it was an omura 's whale ."
+b'it is the first sighting of the species in wa and only the second in australia .'

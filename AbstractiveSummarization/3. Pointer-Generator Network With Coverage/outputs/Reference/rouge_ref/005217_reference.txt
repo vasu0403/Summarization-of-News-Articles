@@ -1,0 +1,4 @@
+b'study by ofcom says 4g speeds in the uk are slower than promised .'
+b'mobile phone companies boasted 4g would be 5x faster than 3g .'
+b'but actual figure is actually only 2.5 x faster - 14.7 megabits per second .'
+b'out of the networks , ee was fastest , followed by vodafone , o2 and three .'

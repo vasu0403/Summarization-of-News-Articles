@@ -1,0 +1,4 @@
+b'the nypd detective has been accused of shouting abuse at an uber driver .'
+b'patrick cherry of the joint terrorism task force is now under investigation .'
+b'detective cherry was on his way back from visiting a colleague in hospital .'
+b"the uber driver ` honked ' det cherry as he reversed into a parking space ."

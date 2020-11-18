@@ -1,0 +1,5 @@
+b'the satellite , sentinel-1a , sends out radio waves and times how long it takes for them to reflect back .'
+b"the data has been transformed into an ` interferogram ' showing how the land mass has shifted ."
+b"scientists count the colored ` fringes ' in the interferogram to detect how much the land has moved ."
+b'everest lost an inch of its height in the quake , but still stands at 29,029 feet .'
+b'an area 75 miles by 30 miles around kathmandu has risen over three feet .'

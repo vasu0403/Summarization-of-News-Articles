@@ -1,0 +1,3 @@
+b'cristiano ronaldo scored five as real madrid defeated granada 9-1 .'
+b'karim benzema scored a brace while gareth bale also found the net .'
+b"barcelona beat celta vigo 1-0 courtesy of jeremy mathieu 's diving header ."

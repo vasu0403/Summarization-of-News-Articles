@@ -1,0 +1,4 @@
+b'stacey johson , 22 , was diagnosed with cancer in her brain eight years ago .'
+b'her sister dannii , 20 , became her carer last year but suffered headaches .'
+b'after going to the gp dannii was also found to have a benign brain tumour .'
+b'stacey has found out her tumour has grown , while dannii awaits treatment .'

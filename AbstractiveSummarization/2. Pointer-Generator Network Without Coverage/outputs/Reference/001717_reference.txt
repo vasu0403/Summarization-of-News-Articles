@@ -1,0 +1,3 @@
+b'novak djokovic beat john isner 7-6 . 6-2 in their miami semi-final .'
+b"the world no 1 will take on andy murray in sunday 's final ."
+b'djokovic is bidding to win his fifth title at key biscayne .'

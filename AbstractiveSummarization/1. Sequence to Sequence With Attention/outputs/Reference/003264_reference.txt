@@ -1,0 +1,4 @@
+b'manchester city fans see prices of some tickets rise from # 885 to # 1,750 .'
+b"club says those tickets now come as part of a ` different package '"
+b'city have reviewed stadium pricing following a 6,000-seat extension .'
+b'cheapest etihad season tickets cost just # 299 .'

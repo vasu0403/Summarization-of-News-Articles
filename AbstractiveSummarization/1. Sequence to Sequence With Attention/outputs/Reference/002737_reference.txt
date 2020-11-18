@@ -1,0 +1,3 @@
+b'michael phelps was suspended by usa swimming following arrest .'
+b"american is entered in five events at this week 's arena pro swim series ."
+b"phelps ' rival ryan lochte has entered into the same five events ."

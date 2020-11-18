@@ -1,0 +1,4 @@
+b'the house sold for 300 times average price of home in england and wales .'
+b'nine-bed property in chelsea is 18 times the size of the average new home .'
+b'mansion , marketed for # 55m , been bought by company based in bermuda .'
+b"stamp duty alone is enough for treasury to pay year 's salary of 330 nurses ."

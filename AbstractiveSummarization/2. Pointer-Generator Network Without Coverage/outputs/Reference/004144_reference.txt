@@ -1,0 +1,4 @@
+b'the cafe is named cats and people and is based in moscow .'
+b'customers can bring their own cat or rent one while they are there .'
+b'all of the cats were rescued and have been vaccinated and chipped .'
+b'the cafe was influenced by cat-friendly establishments in far-eat asia .'

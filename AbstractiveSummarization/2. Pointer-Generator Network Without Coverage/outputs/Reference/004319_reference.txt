@@ -1,0 +1,4 @@
+b'new england patriots beat seattle seahawks 28-24 to win super bowl xlix .'
+b'patriots visited the white house on thursday to meet president obama .'
+b"tom brady was nowhere to be seen , citing ` family commitments ' as reason ."
+b"february 's super bowl victory was brady 's fourth in a glittering career ."

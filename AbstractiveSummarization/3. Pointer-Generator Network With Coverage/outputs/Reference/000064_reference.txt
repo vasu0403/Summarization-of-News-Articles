@@ -1,0 +1,3 @@
+b"mark wahlberg is planning to appear in `` patriots ' day ''"
+b'the film will be about events surrounding the 2013 boston marathon bombing .'
+b"another film , `` boston strong , '' is also in the works ."

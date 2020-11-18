@@ -1,0 +1,4 @@
+b'more than 1,000 properties are listed in cuba on the home-rental website .'
+b'forty per cent of the listings are located in the capital of havana .'
+b'airbnb has been signing up cuban property owners for three months .'
+b'for the time being non-us travellers will not be able to book with airbnb .'

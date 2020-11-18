@@ -1,0 +1,5 @@
+b'manchester united lost 3-0 at everton in the premier league on sunday .'
+b'man united sit fourth in the premier league table with four games left .'
+b'they are seven points clear of liverpool - who have a game in hand .'
+b'chris smalling : manchester united must improve .'
+b"van gaal : i could tell the players ' attitude was not right during the warm-up ."

@@ -1,0 +1,4 @@
+b'researchers subjected two lithium-ion batteries to external heat .'
+b'they used thermal imaging to see what happened inside each cell .'
+b'copper inside one cell reached temperatures of at least 1,085 \xc2\xb0c -lrb- 1,985 \xc2\xb0f -rrb- .'
+b"the heat also caused molten material to stream from the battery 's vent ."

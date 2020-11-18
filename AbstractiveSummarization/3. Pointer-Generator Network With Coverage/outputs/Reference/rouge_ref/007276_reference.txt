@@ -1,0 +1,4 @@
+b'robot has been drawing crowds at hong kong electronics event this week .'
+b'it can recognise and respond to human facial expressions in natural way .'
+b'known as ham , the head was designed by us firm hanson robotics .'
+b'made using soft-bodied mechanical engineering and nanotechnology .'

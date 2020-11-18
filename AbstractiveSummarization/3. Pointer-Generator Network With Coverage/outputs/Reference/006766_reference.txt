@@ -1,0 +1,3 @@
+b'predicted life spans of women aged 65 , 75 , 85 and 95 fell in 2012 .'
+b'also found increasing life expectancy for men in 60s and 70s had stalled .'
+b'life expectancy for english women already among worst in west europe .'

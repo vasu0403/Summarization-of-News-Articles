@@ -1,0 +1,4 @@
+b"the canberra based dfat workers got an ` announcement ' on a screen ."
+b'the message said their office was being closed and moved to melbourne .'
+b'the announcement was displayed for five hours before it was revealed .'
+b'it comes as the department plans to cut 500 jobs by june this year .'

@@ -1,0 +1,4 @@
+b"the video was captured in california by the dogs ' owner tracy ."
+b'young german shepherd named kali jumps around playfully .'
+b'adopted mother follows it and nudges it away from its ball .'
+b'older dog then uses its paw to push the puppy onto the bed .'

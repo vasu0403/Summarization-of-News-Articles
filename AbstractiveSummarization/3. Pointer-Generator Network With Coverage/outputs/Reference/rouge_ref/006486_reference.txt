@@ -1,0 +1,3 @@
+b'a man has died after being crushed by a garbage truck in melbourne .'
+b'the man was collecting garbage when the truck rolled and crushed him .'
+b"another man has died after the car he was travelling in crashed into trees in melbourne 's east on friday ."

@@ -1,0 +1,5 @@
+b'furniture company , steelcase , has created the brody worklounge .'
+b"lounges are designed to ` be good for your body and good for your brain '"
+b"brody provides shelter from visual distractions with privacy screens while featuring cushion that adapts to each person 's size ."
+b'in recent years many companies have embraced open offices with about 70 per cent of u.s. offices having no or low partitions .'
+b'a 2013 study revealed noise and privacy loss are the main source of workspace dissatisfaction .'

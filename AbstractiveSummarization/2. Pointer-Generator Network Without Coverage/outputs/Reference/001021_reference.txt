@@ -1,0 +1,2 @@
+b'prince harry is to begin a monthlong military attachment in australia .'
+b"he 'll be leaving the british armed forces in june ."

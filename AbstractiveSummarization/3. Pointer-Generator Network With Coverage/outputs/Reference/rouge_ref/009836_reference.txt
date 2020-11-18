@@ -1,0 +1,3 @@
+b"best restaurant in the world is grant achatz 's alinea , chicago ."
+b'the awards are voted for by readers of elite traveler magazine .'
+b'the us has 19 of the best restaurants in the world , followed by france which boasts 14 and the uk , which has a mere eight .'

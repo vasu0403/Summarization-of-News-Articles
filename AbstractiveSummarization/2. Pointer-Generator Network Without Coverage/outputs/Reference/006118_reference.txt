@@ -1,0 +1,4 @@
+b'app is in development and will be trialled in wandsworth later this year .'
+b'as customers scan items , a pricing tool will create a list with store prices .'
+b'when the shopper enters the store , a map will appear showing the customer where each of their grocery items are located .'
+b'if wandsworth trial is successful , app will be rolled out wider next year .'

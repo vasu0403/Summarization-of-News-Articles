@@ -1,0 +1,3 @@
+b"researchers said during security conference that payment devices by unidentified global vendor came with password ' 166816 '"
+b"while researchers did not identify the vendor , google search points to verifone , which said its devices in the field come with password ` z66831 '"
+b'verifone claimed sensitive payment information or personally identifiable information can not be captured .'

@@ -1,0 +1,4 @@
+b"new feature has been rolled out on twitter 's website and iphone app ."
+b'lets users embed tweets within their own messages and comment on it .'
+b'tool means longer tweets , as a comment can be 116 characters long .'
+b'response has been mainly positive to the new feature online .'

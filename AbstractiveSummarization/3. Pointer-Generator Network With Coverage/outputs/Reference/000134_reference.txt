@@ -1,0 +1,3 @@
+b'closing arguments in the case are set for tuesday .'
+b'aaron hernandez is charged with first-degree murder in the killing of odin lloyd .'
+b'his defense lawyers made their case on monday .'

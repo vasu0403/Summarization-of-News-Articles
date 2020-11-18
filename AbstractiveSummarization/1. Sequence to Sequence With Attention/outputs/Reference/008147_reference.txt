@@ -1,0 +1,3 @@
+b'video shows the planes approaching the runway at the same speed .'
+b'the two aircraft maintain this as their wheels touch the tarmac .'
+b"aviation expert calls the manoeuvre ` closely spaced parallel runway operations '"

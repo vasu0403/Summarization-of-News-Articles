@@ -1,0 +1,5 @@
+b'warning : graphic content .'
+b'russian climber is struck by a falling icicle , causing a blood clot in his leg .'
+b'using snow as an anaesthetic he cuts his own leg open with a scalpel .'
+b'he scoops out the blood clot and sews up the wound with items in his kit .'
+b'ten days later the stitches are removed and he is left with barely any scar .'

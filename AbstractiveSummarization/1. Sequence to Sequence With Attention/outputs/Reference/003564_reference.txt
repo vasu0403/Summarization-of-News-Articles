@@ -1,0 +1,3 @@
+b'professor john warren discovered avocado trees switch gender in hours .'
+b"the botanist said the tree displays ` unique flowering behaviour '"
+b'however , trees are usually successful in avoiding polinating themselves .'

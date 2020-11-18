@@ -1,0 +1,4 @@
+b'david cameron will announce the new # 350 million childcare places today .'
+b'he will cut tax relief on pension contributions for those on more than # 150k .'
+b"mr cameron will tell his audience he wants to ` make hard work pay '"
+b'he will say that work rather than benefits is the best way to avoid poverty .'

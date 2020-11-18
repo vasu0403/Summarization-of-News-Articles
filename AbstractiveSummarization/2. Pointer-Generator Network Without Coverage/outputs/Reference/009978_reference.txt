@@ -1,0 +1,4 @@
+b"the image of the patterned stripes in the saharan desert was captured by the nasa 's landsat 7 satellite ."
+b'they are examples of linear , or longitudinal , dunes in erg chech - a desolate sand sea in southwestern algeria .'
+b"` erg ' comes from the arabic word for ` field of sand dunes ' and the cause of such shapes is not known ."
+b'theories include helical roll vortices - rolls of rotating and spiralling air - and seasonal changes in wind direction .'

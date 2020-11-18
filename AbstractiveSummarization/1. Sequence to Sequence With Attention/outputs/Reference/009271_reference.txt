@@ -1,0 +1,4 @@
+b'study was conducted by scientists at purdue university in indiana .'
+b'they were investigating how to reduce bird to aircraft collisions .'
+b'research showed that birds responded most to blue lights on planes .'
+b'and turning the lights on while taking off - not before - had the best effect .'

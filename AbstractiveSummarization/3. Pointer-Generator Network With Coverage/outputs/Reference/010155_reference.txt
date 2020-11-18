@@ -1,0 +1,4 @@
+b'research was conducted at the university of southern california .'
+b'scientists there have identified a gene , named nox3 , found in the inner ear .'
+b"say this is crucial in determining a person 's vulnerability to hearing loss ."
+b'noise-induced hearing loss is most common work-related illness in the us .'

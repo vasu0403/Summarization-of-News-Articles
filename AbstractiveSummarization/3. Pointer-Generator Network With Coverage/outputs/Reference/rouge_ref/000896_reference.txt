@@ -1,0 +1,3 @@
+b'police say 275,000 demonstrators marched in sao paulo .'
+b'many want president dilma rousseff to be impeached .'
+b'a corruption scandal has implicated politicians in her party .'

@@ -1,0 +1,4 @@
+b"kellogg 's makes hundreds of millions from annual sales to british families ."
+b'but latest figures show it effectively paid no corporation tax in uk in 2013 .'
+b'uses complex legal tax manoeuvres involving subsidiary companies .'
+b'but new measures introduced by george osborne set to close loophole .'

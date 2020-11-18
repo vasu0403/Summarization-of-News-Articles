@@ -1,0 +1,5 @@
+b"ronaldo scored five times in real madrid 's 9-1 win over granada ."
+b'it takes his total to 11 goals in eight matches against them .'
+b'but granada have got off lightly compared to some teams he has faced .'
+b'ronaldo has 18 goals in 12 against sevilla ; 15 in 20 versus atletico .'
+b'portuguese has 15 goals in nine against getafe and 12 in six vs celta vigo .'

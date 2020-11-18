@@ -1,0 +1,3 @@
+b'a poll of 600 executives was conducted by yougov for gsm london .'
+b'the biggest pet peeve was spelling or grammatical errors on the cv .'
+b'brevity is valued , with employers disliking waffling resumes .'

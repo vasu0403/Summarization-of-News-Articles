@@ -1,0 +1,4 @@
+b'the henry ford museum in dearborn , michigan , has had chair for 85 years .'
+b"the worn , red chair , from washington d.c. 's ford 's theatre , is usually kept in an enclosed case but will be put in an open plaza on april 15 ."
+b'abraham lincoln was shot by john wilkes booth on april 14 , 1865 .'
+b'the henry ford museum also holds the limo in which john f. kennedy was shot and the bus rosa parks rode when she refused to give up her seat .'

@@ -1,0 +1,5 @@
+b'manchester united signed a 10-year kit deal with adidas last season .'
+b"united 's deal earns them # 750million in total with deal beginning next term ."
+b'adidas replaces nike who had supplied united for the previous 13 years .'
+b'read : manchester united to tour america for just 12 days in pre-season .'
+b'click here for all the latest manchester united news .'

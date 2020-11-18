@@ -1,0 +1,3 @@
+b'sergio garcia is looking to win his first pga tour title since 2012 .'
+b"the spaniard is competing at this week 's shell houston open ."
+b"it is the last pga tour event ahead of next week 's masters at augusta ."

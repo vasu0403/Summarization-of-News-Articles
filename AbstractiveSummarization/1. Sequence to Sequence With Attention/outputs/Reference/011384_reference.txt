@@ -1,0 +1,4 @@
+b'nasa scientists in california have revealed an interactive 3d map for vesta using images from the dawn spacecraft .'
+b"the map lets you see features on the surface including craters , hills , mountains and even ` canyons '"
+b'you can also measure elevation changes on the surface and see different measurement data .'
+b"and a ` gaming mode ' lets you fly around the largest asteroid in the solar system using your keyboard 's arrow keys ."

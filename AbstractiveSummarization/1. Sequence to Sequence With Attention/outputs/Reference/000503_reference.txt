@@ -1,0 +1,2 @@
+b'92 percent of americans say it is important to get an annual head-to-toe physical exam .'
+b"randomized trials going back to the 1980s just do n't support that belief ."

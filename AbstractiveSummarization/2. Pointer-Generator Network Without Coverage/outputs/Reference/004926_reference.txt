@@ -1,0 +1,4 @@
+b"researcher says a ` bone flute ' found in slovenia is not an instrument ."
+b'instead he says it is simply a bone chewed by a hyena with teeth marks .'
+b'he claims all such instruments were made by hyenas , not neanderthals .'
+b'and the bones do not even originate from neanderthal times .'

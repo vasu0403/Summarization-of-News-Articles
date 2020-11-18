@@ -1,0 +1,2 @@
+b'google has already patented system to swap robot personalities .'
+b"sebastian thrun says system to swap personalities is ` doable '"

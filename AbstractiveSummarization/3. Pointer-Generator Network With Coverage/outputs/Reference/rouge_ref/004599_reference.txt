@@ -1,0 +1,5 @@
+b'the disturbing video was uploaded last week by raymond yeung .'
+b"the description claims it was captured in china 's shenzhen reservoir ."
+b'the video has sparked online debates over the species of the creature .'
+b"some have claimed the hairless animal is a mythical ` water monster '"
+b'others believe it is a malaysian bear suffering from a skin disease .'

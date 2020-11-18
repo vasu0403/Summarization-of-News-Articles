@@ -1,0 +1,3 @@
+ultrahaptics is a young company with a big dream : changing the way we interact with electronic devices .
+their technology creates tactile three-dimensional shapes literally out of thin air , using ultrasound .
+changes in air pressure are perceived as suspended tactile surfaces .

@@ -1,0 +1,3 @@
+b'rafael nadal beat spanish compatriot nicolas almagro 6-3 6-1 .'
+b"nadal exacted revenge on almagro - who beat him last year 's quarter-finals ."
+b'world no 4 is looking for his ninth career title on the catalan clay court .'

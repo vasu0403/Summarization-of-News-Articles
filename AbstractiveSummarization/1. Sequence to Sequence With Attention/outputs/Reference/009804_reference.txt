@@ -1,0 +1,5 @@
+b'a 13-year-old girl has gone missing from her sydney home .'
+b"melissa borg , from baulkham hills , has n't been seen since thursday ."
+b'she left the house at 7:30 to go to seven hills school but never made it .'
+b'when her father got home from work he alerted police .'
+b'a picture of melissa in her blue school uniform has been released .'

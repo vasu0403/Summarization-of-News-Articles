@@ -1,0 +1,3 @@
+b'actors kristin chenoweth and alan cumming are set to host the 2015 tony awards ceremony .'
+b"best play nominees : ` the curious incident of the dog in the night-time , '' `` disgraced , '' `` hand to god '' and `` wolf hall parts one & two ''"
+b'the awards will be presented on june 7 in a ceremony airing live at 8 p.m. on cbs .'

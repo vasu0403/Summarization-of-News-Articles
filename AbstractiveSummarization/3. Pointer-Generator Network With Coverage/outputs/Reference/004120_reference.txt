@@ -1,0 +1,5 @@
+b'manuel pellegrini won the premier league and capital one cup last season .'
+b'city currently sit fourth in the league table - 12 points behind chelsea .'
+b"pellegrini 's contract expires at the end of the 2015-16 season ."
+b"city players have been impressed with vieira 's work with the youth team ."
+b"pep guardiola is city 's first-choice to succeed pellegrini at the etihad ."

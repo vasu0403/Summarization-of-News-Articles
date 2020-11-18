@@ -1,0 +1,5 @@
+b'liverpool 2-0 newcastle united : click here to read the match report .'
+b"philippe coutinho starred in liverpool 's premier league win on monday ."
+b"sportsmail 's jamie carragher feels coutinho is becoming their key man ."
+b'liverpool boss brendan rodgers : we can still finish in the top four .'
+b'click here for all the latest liverpool news .'

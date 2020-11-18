@@ -1,0 +1,4 @@
+b'mick schumacher makes his adac formula 4 debut this weekend .'
+b"the season 's first race takes place at the motorsport arena oschersleben ."
+b'the 16-year-old is part of the dutch van amersfoort racing team .'
+b'seven-time formula one world champion michael is recovering after a serious head injury in december 2013 .'

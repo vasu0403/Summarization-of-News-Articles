@@ -1,0 +1,4 @@
+b"reddit launched its r/thebutton thread on april fool 's day ."
+b'it is accompanied by a timer that counts down from 60 seconds .'
+b'when the button is clicked , the timer resets and the person who pressed it is given a colour that signifies how long they left it before pressing .'
+b'it is not known what will happen if the timer drops to zero .'

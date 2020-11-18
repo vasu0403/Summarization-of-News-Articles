@@ -1,0 +1,3 @@
+b'graph show dominant colours of 94,526 artworks from 1800 to 2000 .'
+b'orange and yellow have always been the most popular colour .'
+b'in recent years blue has begun to catch up - and nobody is sure why .'

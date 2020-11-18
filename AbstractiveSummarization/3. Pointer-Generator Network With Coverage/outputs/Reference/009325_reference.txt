@@ -1,0 +1,4 @@
+b'they will be included in 2018 flight of orion and space launch system .'
+b'nea scout will fly by a small asteroid , taking pictures and getting data .'
+b"lunar flashlight will illuminate moon 's craters and measure surface ice ."
+b'biosentinel will use yeast to measure the impact of deep space radiation .'

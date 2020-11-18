@@ -1,0 +1,4 @@
+b'researchers in tokyo placed rats in a cage with three compartments .'
+b'one room showed photos of rats in pain , and another with neutral faces .'
+b"rats spent more time in the ` neutral ' room suggesting they recognise fear ."
+b'experts believe facial expressions are used to communicate with others .'

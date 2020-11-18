@@ -1,0 +1,3 @@
+b'chelsea are currently nine points clear in the premier league standings .'
+b"jose mourinho 's side face arsenal at the emirates on sunday ."
+b'the blues have six games remaining in the current league campaign .'

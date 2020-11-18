@@ -1,0 +1,4 @@
+b'argentine president cristina fernandez de kirchner said islands not british .'
+b"she said : ` we will see the islands form part of our territory again '"
+b'also publicly attacked plan to boost defences on the south atlantic islands .'
+b'claimed she would sue oil firms drilling in the waters around the islands .'

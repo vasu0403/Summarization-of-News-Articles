@@ -1,0 +1,4 @@
+b'company known for use of publicity stunts .'
+b"tweet contained pun on name of liverpool 's kop stand ."
+b'it was used to link to liverpool-newcastle stats .'
+b'social media backlash leads to apology .'

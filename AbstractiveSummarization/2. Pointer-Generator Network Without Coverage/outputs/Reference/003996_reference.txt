@@ -1,0 +1,4 @@
+b"seventh-placed southampton 's wage bill for last season was # 55.2 million ."
+b'third-placed manchester united have the highest wage bill at # 215.8 m .'
+b"qpr 's salary bill was almost twice what they earned in total last season ."
+b'click here for the latest premier league news .'

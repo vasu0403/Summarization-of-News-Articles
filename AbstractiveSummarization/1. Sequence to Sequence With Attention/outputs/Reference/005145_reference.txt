@@ -1,0 +1,3 @@
+b'amanda holden is presenting news heartbreaking series on itv .'
+b"show highlights plight of rspca 's newbrook farm animal centre ."
+b'hopes animals featured will find new homes each week .'

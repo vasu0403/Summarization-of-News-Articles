@@ -1,0 +1,4 @@
+b'the world famous studios have never before been open to the public .'
+b'but in a google first the web giant has made an app with a virtual tour .'
+b'includes archived beatles photos and music videos of stars at the studio .'
+b'users navigate round in the same way that google street view works .'

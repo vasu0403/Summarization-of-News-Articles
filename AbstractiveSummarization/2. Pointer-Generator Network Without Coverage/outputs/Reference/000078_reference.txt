@@ -1,0 +1,3 @@
+b'the group included four children , turkish official says .'
+b"turkish military did n't say what group 's intent was ."
+b'uk foreign office says it is trying to get information from turkish officials .'

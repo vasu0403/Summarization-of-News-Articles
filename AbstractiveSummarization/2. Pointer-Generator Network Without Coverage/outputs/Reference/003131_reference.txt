@@ -1,0 +1,3 @@
+b'jurgen klopp announced that he will leave the club in the summer .'
+b"klopp has encouraged the players to ` keep smiling ' ahead of his departure ."
+b'borussia dortmund have struggled this season and are 10th in bundesliga .'

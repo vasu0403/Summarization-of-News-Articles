@@ -1,0 +1,3 @@
+b'nancy kanwisher works at the massachusetts institute of technology .'
+b'she used her bare scalp to explain what the different brain regions are .'
+b"the short video was posted on the scientist 's brain talks website ."

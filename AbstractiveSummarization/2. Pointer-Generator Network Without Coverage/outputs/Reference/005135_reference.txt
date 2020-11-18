@@ -1,0 +1,4 @@
+b'raja , the king cobra , has delivered almost 500 milligrams of deadly toxin .'
+b"the snake , which is at gosford 's australian reptile park , weighs 8kg ."
+b"` he 's about as thick as my legs , ' veteran handler billy collett said ."
+b'its venom will be distributed between research institutes across australia .'

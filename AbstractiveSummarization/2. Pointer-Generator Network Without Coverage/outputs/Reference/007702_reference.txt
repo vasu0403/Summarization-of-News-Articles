@@ -1,0 +1,3 @@
+b'sir ranulph fiennes is the oldest briton to complete marathon des sables .'
+b"veteran explorer , 71 , said the 256km race is n't set for old geriatrics like me '"
+b'he has raised almost # 1million for marie curie by completing six-day event .'

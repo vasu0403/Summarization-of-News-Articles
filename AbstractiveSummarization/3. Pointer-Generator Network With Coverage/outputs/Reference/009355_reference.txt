@@ -1,0 +1,5 @@
+b'the espresso maker , named the isspresso maker after the international space station , is set for lift off on monday .'
+b'it was designed by italian coffee giant lavazza , engineering company argotec and the italian space agency .'
+b'the experimental machine was specially designed to for use off the planet .'
+b"it was originally intended for international space station astronaut samantha cristoforetti of italy as relief from the station 's instant coffee ."
+b"nasa 's space station program deputy manager , dan hartman , said it is being sent as part of the goal of making astronauts feel at home ."

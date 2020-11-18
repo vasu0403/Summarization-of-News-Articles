@@ -1,0 +1,3 @@
+b"the usc women 's tennis team won the pac-12 championship on thursday ."
+b'the girls defeated the women of ucla 4 - 3 .'
+b'while celebrating , they smashed and broke the trophy .'

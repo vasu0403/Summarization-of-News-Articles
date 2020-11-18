@@ -1,0 +1,5 @@
+b'warning : graphic content .'
+b'madalina neagu , 42 , arrived at a romanian hospital with abdominal pain .'
+b'she believed she was going into labour and doctors prepared for surgery .'
+b'they carried out tests and found she actually had an 11lbs -lrb- 5kg -rrb- tumour .'
+b'she had emergency surgery to remove the tumour and has now recovered .'

@@ -1,0 +1,4 @@
+b"since 1903 , scientists have been claiming brontosaurus does n't exist ."
+b'they said the famous species should be classified as an apatosaurus .'
+b'new study calculated the differences between families of diplodocid .'
+b'brontosaurus had a thinner neck and slightly different bone structure .'

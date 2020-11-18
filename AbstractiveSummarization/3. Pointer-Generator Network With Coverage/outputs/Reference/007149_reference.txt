@@ -1,0 +1,4 @@
+b'arcade staff discovered the baby girl in the disabled toilets last night .'
+b"the newborn was taken to hospital and is described as ` safe and well '"
+b'the baby has been named april by staff at ormskirk hospital in southport .'
+b'police say the mother has been found and is receiving medical treatment .'

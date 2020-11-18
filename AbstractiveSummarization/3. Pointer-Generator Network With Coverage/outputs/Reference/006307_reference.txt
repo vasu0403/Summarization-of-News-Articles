@@ -1,0 +1,3 @@
+b'there are many different ice cream makers - from budget brand to retro .'
+b'best rated machine is the chill factor ice cream maker from john lewis .'
+b'prices range from as little as # 12.99 to a luxury one for # 349.99 .'

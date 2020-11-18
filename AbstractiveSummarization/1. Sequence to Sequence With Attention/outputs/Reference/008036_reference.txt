@@ -1,0 +1,4 @@
+b'women competed on same course as men and on same day for first time .'
+b"the women 's race has been held since 1927 further up river at henley ."
+b"oxford university women 's rowing team beat cambridge on historic day ."
+b'and male colleagues won for the third time running in the 161st race .'

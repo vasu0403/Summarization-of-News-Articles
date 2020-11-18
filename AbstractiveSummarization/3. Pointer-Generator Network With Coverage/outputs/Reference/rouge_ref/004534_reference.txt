@@ -1,0 +1,4 @@
+b"instrument on eso 's very large telescope -lrb- vlt -rrb- captured image ."
+b'shows exactly how the different dusty pillars are distributed in space .'
+b'the pillars shed about 70 times the mass of the sun every million years .'
+b'they are expected to have a lifetime of perhaps three million more years - which is relatively short in cosmic terms .'

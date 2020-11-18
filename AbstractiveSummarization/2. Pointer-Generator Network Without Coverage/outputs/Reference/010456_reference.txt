@@ -1,0 +1,4 @@
+b'experts have discovered a flaw in older versions of the android system .'
+b'once a hacker has access to a phone they can monitor data from sensors .'
+b'from this , they can potentially intercept a fingerprint from the scanner .'
+b'vulnerability has been tested and confirmed on the samsung galaxy s5 .'

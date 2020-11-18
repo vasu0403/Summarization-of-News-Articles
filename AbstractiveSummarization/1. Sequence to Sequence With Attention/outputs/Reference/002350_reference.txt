@@ -1,0 +1,4 @@
+b'band of extreme weather predicted to hit an area including chicago , detroit and st. louis , as well as memphis , tennessee , and little rock , arkansas on thursday .'
+b"storm prediction center estimates that 57 million people live in an area with an ` enhanced risk ' of hail , damaging winds and tornadoes ."
+b'severe thunderstorms packing 80mph winds and large hail already made their way across central missouri on wednesday .'
+b"areas that do n't see strong storms on thursday could see heavy rain instead ."

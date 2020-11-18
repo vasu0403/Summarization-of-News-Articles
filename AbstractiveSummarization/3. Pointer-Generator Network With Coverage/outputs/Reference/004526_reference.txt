@@ -1,0 +1,4 @@
+b'site can analyze any photo and will guess the age and sex .'
+b'said 30-year-old khloe kardashian looks 44 .'
+b'microsoft app also determined obama looks the right age of 53 .'
+b'users can search for photos on bing or upload their own .'

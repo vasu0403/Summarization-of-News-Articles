@@ -1,0 +1,3 @@
+b'riff was developed in london and is available on android and ios .'
+b'it lets you film a video and uploaded it to the app and facebook .'
+b'friends then film their own clips and tag them onto the end of your video .'

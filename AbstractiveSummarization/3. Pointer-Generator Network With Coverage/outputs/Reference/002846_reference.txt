@@ -1,0 +1,3 @@
+b'prize money has been increased to over # 20.2 million at roland garros .'
+b"the men 's and women 's singles champions will each receive # 1.3 m ."
+b'the french open remains the grand slam with the lowest top prize .'

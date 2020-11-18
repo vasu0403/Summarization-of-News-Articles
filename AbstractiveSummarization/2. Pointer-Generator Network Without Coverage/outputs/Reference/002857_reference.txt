@@ -1,0 +1,3 @@
+b'alex hales has nine england caps since his debut against india last august .'
+b"the big-hitting batsman is hoping for a ` proper crack ' with his country ."
+b'hales has played only five of last 18 matches since india series defeat .'

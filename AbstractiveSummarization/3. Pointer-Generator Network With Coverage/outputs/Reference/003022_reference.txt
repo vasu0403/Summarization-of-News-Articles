@@ -1,0 +1,3 @@
+b'tottenham travel to newcastle for their premier league clash on sunday .'
+b"magpies supporters are planning a mass protest at st james ' park ."
+b"spurs boss mauricio pochettino does n't know how this will affect players ."

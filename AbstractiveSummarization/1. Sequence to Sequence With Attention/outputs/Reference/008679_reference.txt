@@ -1,0 +1,4 @@
+b'phil haste , 60 , issued with # 50 fine for not showing tax disk in his car .'
+b'this is despite it not becoming a legal requirement six months ago .'
+b'he was also told he had not shown a pay and display ticket in his car .'
+b"but he has a valid car parking permit , so said decision was ` diabolical '"

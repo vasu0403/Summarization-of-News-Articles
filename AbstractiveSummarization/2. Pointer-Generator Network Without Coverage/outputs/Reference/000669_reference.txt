@@ -1,0 +1,3 @@
+b'the film is out in theaters today .'
+b'co-star paul walker died during production .'
+b"critics say `` furious 7 '' is bittersweet and `` plenty of crazy fun ''"

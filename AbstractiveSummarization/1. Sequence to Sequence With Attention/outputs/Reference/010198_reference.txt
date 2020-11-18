@@ -1,0 +1,4 @@
+b'garment is part of an animal-skin display at national museum of denmark .'
+b"it is known as a ` naatsit ' and was worn during 19th century in greenland ."
+b'depending on the weather , the naatsit was often the only garment worn .'
+b'other items include a diaper made from reindeer skin and fur .'

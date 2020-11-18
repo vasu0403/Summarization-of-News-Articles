@@ -1,0 +1,4 @@
+b'labour has jumped to 35 % in the polls , up one point from last month .'
+b'the tories remain stuck on 33 % , according to the pollsters ipsos mori .'
+b"greens have pushed nick clegg 's lib dems into a humiliating fifth place ."
+b"lib dems are on 7 % , the greens 8 % and nigel farage 's ukip 10 % ."

@@ -1,0 +1,3 @@
+b'tim sherwood and chris ramsey worked together at tottenham last year .'
+b"sherwood 's aston villa side take on ramsey 's qpr at villa park tuesday ."
+b'villa are 17th in the premier league and only three points above qpr .'

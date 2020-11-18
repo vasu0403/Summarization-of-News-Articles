@@ -1,0 +1,4 @@
+b'strangers watch amanda oleander , 25 , from la , all day long .'
+b"she 's the star of periscope , twitter 's new live broadcasting mobile app ."
+b'it streams live video and users can chat and message in real time .'
+b"she 's already more popular than celebrities including ellen degeneres ."

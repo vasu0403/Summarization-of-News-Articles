@@ -1,0 +1,6 @@
+b'the 2014-2015 pfa premier league team of the year has been announced .'
+b"harry kane has been named up front alongside chelsea 's diego costa ."
+b'costa , eden hazard and john terry are among six chelsea players named .'
+b"manchester united 's david de gea is the team 's goalkeeper ."
+b'cesc fabregas did not make the team despite 16 league assists .'
+b'the pfa awards ceremony is being held in london on sunday evening .'

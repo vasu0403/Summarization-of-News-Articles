@@ -1,0 +1,4 @@
+b'arsenal beat burnley 1-0 at turf moor on saturday .'
+b"win was arsenal 's eighth in a row in the premier league ."
+b'olivier giroud wants arsenal to maintain charge and challenge chelsea .'
+b'arsenal play chelsea in their next league game at the emirates .'

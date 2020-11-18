@@ -1,0 +1,4 @@
+b'scott kelley , now 50 , and mary nunes , now 19 , went missing in fall 2004 .'
+b"genevieve kelley , mary 's mom , fled during custody fight with girl 's dad ."
+b'family hid in costa rica for ten years until genevieve emerged last year .'
+b'scott and mary were stopped on monday as they tried to enter the u.s.'

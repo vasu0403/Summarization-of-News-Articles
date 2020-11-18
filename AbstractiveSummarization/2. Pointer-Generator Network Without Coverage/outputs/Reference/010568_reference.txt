@@ -1,0 +1,4 @@
+b'cardinal francis george , a chicago native , died friday .'
+b"he was to be buried thursday in his family 's plot at all saints cemetery in nearby des plaines ."
+b'he was appointed by pope john paul ii in 1997 to lead the chicago archdiocese .'
+b'george earned a reputation as an intellectual leader and a leading figure in some of the most prominent events in the u.s. church .'

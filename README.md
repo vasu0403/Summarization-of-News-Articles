@@ -1,9 +1,15 @@
-# IRE_Project
+# IRE Major Project
+# Summarization of News Articles
+## Instructions for Running the Codes
+- Go to the respective folder.
+- Instructions for Running the Particular Model are given in their respective folders
 
 
+## Team 29
+- Vasu Singhal
+- Tanish Lad
+- Anupam Majumder
+- Tom Sabu
+- Mentor: Ramkishore Saravanan
 
-## SummaRuNNer
-
-Since, the model utilises GPU, the notebook has been updated in Colaband the files have been saved in Google Drive,the paths of the files required such as **train.json,validation.json,test.json** has been specified relative to the same.
-However, the same files have been uploaded here. 
-*Update the paths, before running the model.*
+Vasu and Tanish worked on Abstractive Summarization, and Tom and Anupam worked on Extractive Summarization

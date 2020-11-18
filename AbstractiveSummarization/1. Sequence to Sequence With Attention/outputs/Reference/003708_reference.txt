@@ -1,0 +1,5 @@
+b'the husky was injured and diseased when found by rspca inspectors .'
+b'the dog has an injury to his right rear leg , possibly from being hit by a car .'
+b'he is also extremely underweight and has secondary skin infections .'
+b'the dog is being fed a special diet to help him gain weight .'
+b'the husky has been named hero and is now being treated by rspca vets .'

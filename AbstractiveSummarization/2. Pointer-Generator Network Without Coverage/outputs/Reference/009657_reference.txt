@@ -1,0 +1,3 @@
+b'international monetary fund says uk economy will grow by 2.7 % this year .'
+b"only the united states will grow faster among world 's biggest economies ."
+b'new figures show inflation is still at 0 % , with food and fuel prices down .'

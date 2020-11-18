@@ -1,0 +1,3 @@
+b'the least known of the dutch cities , the hague was a village until 1806 .'
+b"it owes its growth to louis bonaparte , napoleon 's brother , who ruled here ."
+b"the city has a wealth of art , including vermeer 's ` girl with a pearl earring '"

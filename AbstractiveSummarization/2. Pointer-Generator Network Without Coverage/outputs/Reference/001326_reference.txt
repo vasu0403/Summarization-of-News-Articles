@@ -1,0 +1,3 @@
+b'stephen curry scored 27 points against the clippers to help his side to win .'
+b"klay thompson also played key role in golden state warriors ' victory ."
+b'eastern conference leaders atlanta hawks were beaten by detroit .'

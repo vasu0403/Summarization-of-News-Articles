@@ -1,0 +1,4 @@
+b'the april lunar eclipse turned the moon blood red on saturday night .'
+b'bad weather ruined viewing chances for sydney , brisbane , hobart , darwin .'
+b'adelaide and melbourne had the clearest skies out of all the states .'
+b'a lunar eclipse occurs when the moon passes in the shadow of earth .'

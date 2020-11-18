@@ -1,0 +1,3 @@
+b'britain has long seen prosecco as the second choice to champagne .'
+b"now that 's all changing as prosecco sales have overtaken for the first time ."
+b'uk sales were # 181.8 million compared with # 141.3 million for champagne .'

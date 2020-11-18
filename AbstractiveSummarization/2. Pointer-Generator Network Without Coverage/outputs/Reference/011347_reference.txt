@@ -1,0 +1,3 @@
+b'david beckham has come third in a poll of most stylish brits .'
+b'audrey hepburn scooped the top prize and princess diana came second .'
+b'bizarrely , queen elizabeth i featured at number six .'

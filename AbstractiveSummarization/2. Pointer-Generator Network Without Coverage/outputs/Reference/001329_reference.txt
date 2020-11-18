@@ -1,0 +1,4 @@
+b'jamie carragher watched the mediterranean international cup .'
+b"carragher 's son james plays for the liverpool u12s ."
+b'lionel messi and cesc fabregas have played in the tournament .'
+b'neymar , geard pique , oscar and juan mata have also starred .'

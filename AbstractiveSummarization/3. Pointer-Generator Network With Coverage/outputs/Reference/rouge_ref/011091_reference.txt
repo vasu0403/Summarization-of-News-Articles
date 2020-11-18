@@ -1,0 +1,4 @@
+b"estate agents are offering a ` cameron price ' and a lower ` miliband price '"
+b'labour will introduce an annual levy on homes worth more than # 2million .'
+b'the prospect is alarming wealthy buyers who are demanding a discount .'
+b'some buyers are waiting until after the election to complete purchases .'

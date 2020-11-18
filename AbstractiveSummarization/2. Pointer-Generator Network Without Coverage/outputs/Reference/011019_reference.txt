@@ -1,0 +1,3 @@
+b"duchess of cambridge is due to give birth at st mary 's hospital , london ."
+b'a surgical unit has been closed after patients contracted mutant superbug .'
+b'bacteria , cpe , can cause potentially-fatal infections in blood and urine .'

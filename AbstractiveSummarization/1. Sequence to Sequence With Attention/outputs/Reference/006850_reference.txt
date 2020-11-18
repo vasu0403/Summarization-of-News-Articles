@@ -1,0 +1,4 @@
+b'james moody , 24 , officer on the titanic , died helping passengers escape .'
+b"brother christopher wrote to ship 's owners asking for body to be returned ."
+b"was sent a reply asking for # 20 , or # 2,000 in today 's money , to comply ."
+b'instead bosses offered brother a picture of his headstone overseas .'

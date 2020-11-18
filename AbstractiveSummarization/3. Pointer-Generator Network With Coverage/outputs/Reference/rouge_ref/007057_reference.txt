@@ -1,0 +1,4 @@
+b"british physicist stephen hawking has sung monty python 's galaxy song ."
+b'song is being released digitally and on vinyl for record store day 2015 .'
+b"it is a cover of the song from 1983 film monty python 's meaning of life ."
+b'professor hawking , 73 , appeared on film alongside professor brian cox .'

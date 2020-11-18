@@ -1,0 +1,4 @@
+b'the chicago bulls defeated milwaukee bucks 91-82 on monday night .'
+b'jimmy butler managed 31 points as the bulls took a 2-0 series lead .'
+b'the golden state warriors beat the new orleans pelicans 97-87 .'
+b'klay thompson and stephen curry both starred for the warriors .'

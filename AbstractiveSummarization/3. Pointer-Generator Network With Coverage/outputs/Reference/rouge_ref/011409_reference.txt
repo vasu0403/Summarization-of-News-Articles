@@ -1,0 +1,4 @@
+b'elle cites the item as the most surprising thing in her handbag .'
+b"the body 's ph value tells you how acidic or alkaline your body is ."
+b'many nutritionists say having an alkaline body helps defend against sickness .'
+b'elle has unveiled a new health product : the super elixir nourishing protein .'

@@ -1,0 +1,3 @@
+b'the video was created by washington-based american chemical society .'
+b"it reveals three ` hacks ' to tackle stains on windows , carpets and counters ."
+b'and shows the science behind why gin removes red wine stains and why spit removes food stains on hard surfaces .'

@@ -1,0 +1,5 @@
+b"a study published in tuesday 's journal of the american medical association revealed the figures ."
+b'almost 30 million health records nationwide were involved in criminal theft , malicious hacking or other data breaches over four years .'
+b"compromised information included patients ' names , home addresses , ages , illnesses , test results or social security numbers ."
+b'most involved electronic data and theft , including stolen laptops and computer thumb drives .'
+b"cyber-security experts say thieves may try to use patients ' personal information to fraudulently obtain medical services ."

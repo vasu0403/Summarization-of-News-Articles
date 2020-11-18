@@ -1,0 +1,2 @@
+b'stephen hawking is a famed cosmologist and mathematician .'
+b"he sings monty python 's `` galaxy song '' in a hilarious new video ."

@@ -1,0 +1,3 @@
+b'the business mogul was speaking to dailymail.com ceo jon steinberg .'
+b"he insisted it 's time that colleges cut out expensive middle management ."
+b'with his wife suzy welch he is dedicated to changing business education .'

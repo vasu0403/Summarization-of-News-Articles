@@ -1,0 +1,3 @@
+b'the pentagon announced tuesday plans to identify the remains of hundreds of sailors and soldiers killed on board the uss oklahoma .'
+b'the uss oklahoma sank during the december 7 , 1941 japanese assault on pearl harbor , the american military base and port .'
+b"the attack on pearl harbor resulted in the death of over 2,000 americans and marked the united states ' entrance into world war ii ."

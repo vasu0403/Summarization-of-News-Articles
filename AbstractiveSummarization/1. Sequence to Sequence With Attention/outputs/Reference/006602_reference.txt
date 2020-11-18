@@ -1,0 +1,4 @@
+b'some apparently healthy meals worse for you than demonised junk foods .'
+b"asda 's piri piri chicken pasta salad contains a surprising 46.5 g of fat ."
+b'this exceeds the 43.3 g found in a burger king bacon and cheese whopper .'
+b"caff\xc3\xa8 nero has more fat than mcdonald 's quarter pounder with cheese ."

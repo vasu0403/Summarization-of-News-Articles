@@ -1,0 +1,2 @@
+b"alice barker was a dancer in the 1930s and '40s ."
+b'thanks to filmmakers , barker -- now 102 -- finally saw herself dance .'

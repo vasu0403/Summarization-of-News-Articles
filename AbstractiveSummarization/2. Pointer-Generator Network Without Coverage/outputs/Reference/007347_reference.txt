@@ -1,0 +1,4 @@
+b'tool works with all android phones with the latest google app installed .'
+b"type ` find my phone ' in google and click the search icon ."
+b"the handset will be plotted on a map with a ` ring ' button beneath ."
+b'clicking this button will remotely call the handset and help locate it .'

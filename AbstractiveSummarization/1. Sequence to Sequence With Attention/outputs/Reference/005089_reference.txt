@@ -1,0 +1,3 @@
+b'average cost of property in london is now less than in salcombe , devon .'
+b'in salcombe , property tops # 671,759 and waterfront value is even higher .'
+b"known as ` chelsea-on-sea , ' the area is famed for its yachting and sailing ."

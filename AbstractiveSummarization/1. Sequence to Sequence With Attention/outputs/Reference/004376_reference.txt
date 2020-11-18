@@ -1,0 +1,5 @@
+b'lionel messi , neymar and luis suarez have 102 goals this season .'
+b"they reached the landmark in barcelona 's 6-0 win over getafe ."
+b'messi and suarez both scored twice at nou camp , suarez once .'
+b'read : barcelona pupils keen to teach pep guardiola a lesson .'
+b'6-0 win put barcelona five points clear and piled pressure on real madrid .'

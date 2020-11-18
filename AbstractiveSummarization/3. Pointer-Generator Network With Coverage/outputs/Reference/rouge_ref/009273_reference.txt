@@ -1,0 +1,4 @@
+b'joe anderson , 56 , earns # 80,000 in full-time job as the mayor of liverpool .'
+b'was also taking annual payments of # 4,500 from chesterfield high school .'
+b'when school stopped payouts , he tried to sue them for discrimination .'
+b'appeal tribunal rejected claim he was punished for belief in public service .'

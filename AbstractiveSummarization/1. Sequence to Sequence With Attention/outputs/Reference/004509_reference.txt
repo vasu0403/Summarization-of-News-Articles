@@ -1,0 +1,3 @@
+b"power failure sparked a ` total meltdown ' on london trains across the day ."
+b'thousands of passengers stranded on two trains near clapham junction .'
+b'police boarded trains to hand out water and paramedics had to be on hand .'

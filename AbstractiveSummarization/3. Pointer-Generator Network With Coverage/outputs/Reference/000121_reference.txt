@@ -1,0 +1,2 @@
+b"the `` star wars '' digital collection is set for release this week ."
+b'special features include behind-the-scenes stories on the unique alien sounds from the movie .'

@@ -1,0 +1,4 @@
+b"the popular food chain 's new spring menu includes a 650-calorie chicken-filled pretzel roll and a 400 calorie bagel ."
+b'each of the chicken pretzel rolls contains 68 % of your recommended daily allowance of salt .'
+b"the new menu contains one ` healthy ' option , a 210-calorie steak wrap - which still contains 25 % of your daily saturated fats ."
+b"cardiologist dr kevin campbell explained to femail that the menu items are full of 'em pty calories ' that have ` little or no nutritional value '"

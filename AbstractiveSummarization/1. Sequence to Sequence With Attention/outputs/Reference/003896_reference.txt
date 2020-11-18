@@ -1,0 +1,4 @@
+b'lebron james scores 30 points as cleveland beat boston .'
+b'cavaliers beat celtics 99-91 to extend their lead in series to 2-0 .'
+b'washington wizards beat toronto raptors 117-106 in canada .'
+b'houston rockets take 2-0 lead over dallas mavericks with 111-99 win .'

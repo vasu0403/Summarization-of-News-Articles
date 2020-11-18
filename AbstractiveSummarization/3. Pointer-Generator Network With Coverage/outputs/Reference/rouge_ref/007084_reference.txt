@@ -1,0 +1,4 @@
+b'family festival is located in pippingford park in the ashdown forest .'
+b'music includes a wide range of local bands and dance tents in the woods .'
+b"food is locally sourced , and there 's a picnic on sunday with a free hamper ."
+b'stressed out parents can head for the woodland spa while their little ones play sport or do art classes .'

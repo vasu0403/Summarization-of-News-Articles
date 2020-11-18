@@ -1,0 +1,4 @@
+b'researchers from the university of patras , in greece created the algorithm .'
+b"determines a person 's state of intoxication by their facial temperature ."
+b'analysing the forehead and nose gives an accuracy rate of 90 per cent .'
+b'experts say system could one day be used by the police , and even in cars .'

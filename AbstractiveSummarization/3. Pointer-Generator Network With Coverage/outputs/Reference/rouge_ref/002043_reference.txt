@@ -1,0 +1,5 @@
+b"lewis hamilton was fastest in both practice sessions for sunday 's race ."
+b'hamilton , the world champion , is bidding to win his fourth race in china .'
+b'he leads title race from sebastian vettel who won last time out in malaysia .'
+b'kimi raikkonen was second fastest in the second session in shanghai .'
+b'jenson button was 10th in his mclaren with fernando alonso 12th .'

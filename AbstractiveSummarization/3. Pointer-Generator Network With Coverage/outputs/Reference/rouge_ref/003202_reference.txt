@@ -1,0 +1,4 @@
+b'west ham manager sam allardyce is out of contract this summer .'
+b'swansea city boss garry monk has been mooted as a potential replacement .'
+b'but monk believes that allardyce is a perfect fit at upton park .'
+b"monk 's swansea side are currently eighth in the premier league table ."

@@ -1,0 +1,6 @@
+b'twitter has developed an interactive graphic which shows support for all 20 premier league clubs across the globe .'
+b'support for clubs has been broken down into constituency level in the uk and national level across the world .'
+b"the premier league 's biggest clubs - manchester united , liverpool , arsenal and chelsea - dominate globally ."
+b'manchester united dominate twitter followers in asia while chelsea are strong in south america .'
+b'arsenal come out on top in north america and in most of europe .'
+b'liverpool are strong in australia and parts of the far east , including thailand .'

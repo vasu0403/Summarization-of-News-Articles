@@ -1,0 +1,2 @@
+developers has built a ` thermal protection ' case that not only warns you when your phone is getting too hot , it will automatically cool it down .
+called amited , the case uses micro-fans to blow heat away from the device , or can heat a phone using resistance coils if it gets too cold .

@@ -1,0 +1,3 @@
+b'mahendra ahirwar , 12 , has a bent neck and his head hangs from his body .'
+b"his parents mukesh and sumitra ahirwar say they 'd rather their son died ."
+b'they claim mahendra has seen 50 doctors but none have given a diagnosis .'

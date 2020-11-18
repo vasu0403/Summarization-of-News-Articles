@@ -1,0 +1,3 @@
+b'champions league semi-finals : juventus vs real madrid , barcelona vs bayern munich .'
+b'europa league semi-finals : sevilla vs fiorentina , napoli vs dnipro .'
+b'porto and benfica meet in a top of the table clash in portugal .'

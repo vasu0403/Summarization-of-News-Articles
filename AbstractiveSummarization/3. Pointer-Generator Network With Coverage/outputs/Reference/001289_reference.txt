@@ -1,0 +1,4 @@
+b'a man named john posted the advert in a newsagents in muswell hill .'
+b'it details that he is looking for a companion , apprentice , worker and lover .'
+b"he says the role will bring ' a way of life with quality '"
+b'his ideal woman is aged between 30 and 40 and is happy to be interviewed .'

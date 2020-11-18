@@ -1,0 +1,4 @@
+b'the video was filmed over 45 minutes at bardwell park station in sydney .'
+b'it shows the rising flood water taking over the train tracks .'
+b"sydney 's two-day total rain fall totalled about 225mm on wednesday ."
+b'the flooding caused a partial closure of the airport train line .'

@@ -1,0 +1,4 @@
+b'mike whitehead was standing for the tories in hull west and hessle .'
+b"he resigned as a councillor last week in ` disgust ' at local party politics ."
+b'the tories claim mr whitehead was sacked as a candidate last week .'
+b"but nigel farage this morning insisted it was a ` hammer blow ' for cameron ."

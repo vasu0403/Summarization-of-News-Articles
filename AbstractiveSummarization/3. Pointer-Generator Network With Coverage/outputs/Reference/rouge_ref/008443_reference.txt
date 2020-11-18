@@ -1,0 +1,4 @@
+b"nigel farage caused controversy at the televised leaders ' debate last week ."
+b'he attacked high cost of giving anti-retroviral drugs to non-british sufferers .'
+b"ukip leader insisted he had ` overwhelming support ' of public for comment ."
+b"claimed 60 % of 7,000 cases a year ` come into uk from anywhere in world '"

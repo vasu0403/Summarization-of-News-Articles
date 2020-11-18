@@ -1,0 +1,4 @@
+b'locals had noticed the ground in the area was warmer than usual .'
+b"experts ca n't get close enough to determine how deep the hole is ."
+b'temperature measured at 792c from two metres away .'
+b'thought to be caused by a coal seam spontaneously combusting .'

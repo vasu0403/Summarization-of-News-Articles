@@ -1,0 +1,4 @@
+b'pilot begins in may for prime customers who drive audis in germany .'
+b'at the checkout , a customer pinpoints the location of their car .'
+b'a dhl delivery driver will then receive a temporary digital access code .'
+b'this code gives the driver keyless access to the boot and as soon as it is closed the vehicle locks automatically and the code is revoked .'

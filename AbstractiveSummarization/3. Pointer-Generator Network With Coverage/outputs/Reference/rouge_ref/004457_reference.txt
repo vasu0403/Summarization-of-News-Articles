@@ -1,0 +1,3 @@
+b'floyd mayweather will be fighting manny pacquiao in las vegas on may 2 .'
+b'mayweather has been training at his mayweather boxing club in las vegas .'
+b'pacquiao has been preparing at the wild card gym in los angeles .'

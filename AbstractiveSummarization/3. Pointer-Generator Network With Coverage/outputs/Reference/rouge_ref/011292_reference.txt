@@ -1,0 +1,5 @@
+b'a new # 1bn super hospital in glasgow opened its doors to patients today .'
+b"the state-of-the-art building includes a children 's cinema and robots ."
+b"nicola sturgeon said it had been ` entirely funded ' by scottish taxpayers ."
+b'but scotland gets # 1,200 more per head spent on health than england .'
+b'this is funded by barnett formula guaranteeing extra spending in scotland .'

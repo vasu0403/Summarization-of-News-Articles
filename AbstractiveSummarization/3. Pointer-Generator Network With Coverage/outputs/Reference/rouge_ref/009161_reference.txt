@@ -1,0 +1,4 @@
+b"sensors in the optimal case track subtle changes in a phone 's temperature ."
+b'micro-fans inside the case cool the phone down if it gets too hot .'
+b'while built-in resistance coils gently heat the device if it gets too cold .'
+b"case is launching on indiegogo this week , but prices have n't been revealed ."

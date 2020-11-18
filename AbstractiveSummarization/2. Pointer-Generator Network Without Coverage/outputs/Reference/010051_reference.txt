@@ -1,0 +1,5 @@
+b'the duke of edinburgh has been presented with his australian knighthood .'
+b'the queen gave him the insignia of a knight of the order of australia .'
+b"the citation said that the duke ` has served australia with distinction '"
+b"tony abbott 's decision to award him with the honour was controversial ."
+b'he was criticised by members of his government as well as the public .'

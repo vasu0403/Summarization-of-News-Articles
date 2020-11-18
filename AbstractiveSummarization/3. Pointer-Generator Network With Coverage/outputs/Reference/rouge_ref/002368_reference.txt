@@ -1,0 +1,5 @@
+b'jose mourinho has spoken about his first meeting with sir alex ferguson .'
+b"mourinho 's porto beat manchester united in the 2004 champions league ."
+b"the portuguese says fergie 's respect in defeat has influenced him ."
+b'mourinho : i have a problem , i am getting better and better .'
+b"read : mourinho sides with arsene wenger in ballon d'or opposition ."

@@ -1,0 +1,4 @@
+b'scientists in the netherlands were using the lofar radio telescope .'
+b'they found it could measure changes in lightning caused by cosmic rays .'
+b'a storm can have hundreds of millions of volts over multiple kilometres .'
+b'method could provide a novel way to understand thunderclouds .'

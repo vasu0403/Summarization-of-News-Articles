@@ -1,0 +1,4 @@
+b"graeme mcdowell will play ` aggressive ' golf to end his poor masters record ."
+b'the 35-year-old has only made the cut twice in seven attempts at augusta .'
+b'mcdowell has just recovered from an ankle injury ahead of the masters .'
+b'click here for all the latest golf news .'

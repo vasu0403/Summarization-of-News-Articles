@@ -1,0 +1,4 @@
+b'the bentley r-type continental fastback was expected to sell for # 200,000 .'
+b'but an anonymous car collector bought it for # 739,212 in surrey yesterday .'
+b'when the vintage car is restored , it could be worth more than # 1million .'
+b"described as ` one of the rarest cars of its time ' as only 218 cars were made ."

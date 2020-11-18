@@ -1,0 +1,4 @@
+b'victoria mckennon , 17 , is student at plano senior high school in texas .'
+b"is desperate to take part in school 's graduation ceremony in dallas in june ."
+b"but officials wo n't let her unless she makes up work she has had to miss ."
+b'this may not happen as she struggles with her life-threatening condition .'

@@ -1,0 +1,3 @@
+b'john allan suggested tesco could easily move its hq out of london .'
+b"cameron has promised to renegotiate britain 's membership of the eu ."
+b'an in-out referendum on the outcome of the talks would be held by 2017 .'

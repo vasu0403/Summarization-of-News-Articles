@@ -1,0 +1,5 @@
+b"the ` space bins ' have been designed for the next generation of 737s ."
+b'they can hold six standard-sized bags -- two more than the current set-up .'
+b'that would create enough space for up to 62 more carry-on bags .'
+b'so far two airlines -- delta and alaska -- have ordered the new luggage bins .'
+b'monarch , ryanair and thomson have all placed orders for new 737s .'

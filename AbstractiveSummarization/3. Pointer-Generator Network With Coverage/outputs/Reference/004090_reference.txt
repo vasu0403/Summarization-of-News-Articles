@@ -1,0 +1,6 @@
+b'the official advert for the pay-per-view fight has been released .'
+b'floyd mayweather and manny pacquiao meet on may 2 in las vegas .'
+b'the advert shows them squaring up with the mgm grand visible behind .'
+b"amir khan : mayweather and pacquiao have n't heard of kell brook ."
+b'freddie roach : pacquiao will knock mayweather out .'
+b'click here for all the latest mayweather vs pacquiao fight news .'

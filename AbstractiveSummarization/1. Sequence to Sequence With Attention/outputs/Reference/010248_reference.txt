@@ -1,0 +1,6 @@
+b"doctors found jackson byrnes ' aggressive brain tumour three weeks ago ."
+b'only one surgeon in australia , dr charlie teo , was willing to operate .'
+b'more than $ 95,000 was raised for jackson by strangers to pay for the $ 80,000 surgery and help fund his treatment .'
+b'it was expected jackson would wake paralysed from the extremely risky op .'
+b'instead , he woke up and moved his arms , head and thanked dr teo .'
+b"it 's hoped the operation has bought him more time ."

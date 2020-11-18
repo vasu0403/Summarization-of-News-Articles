@@ -1,0 +1,5 @@
+b'barack obama made announcement following high profile cyber attacks .'
+b'says hackers targeting u.s. from places including russia , china and iran .'
+b"critical of ` governments unable or unwilling ' to go after ` bad actors '"
+b'new order allows treasury to freeze or block assets of those involved .'
+b'it is hoped the power will take away the financial incentive behind attacks .'

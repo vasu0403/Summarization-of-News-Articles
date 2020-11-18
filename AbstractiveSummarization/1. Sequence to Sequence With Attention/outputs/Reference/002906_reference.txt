@@ -1,0 +1,3 @@
+b'there are eight teams in contention for promotion to the premier league .'
+b'every side involved will be targeting wins from their remaining games .'
+b'prize money for promotion could come in at # 120 million .'

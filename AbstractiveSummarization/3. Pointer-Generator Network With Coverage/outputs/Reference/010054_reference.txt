@@ -1,0 +1,4 @@
+b'delta said the flight crew reported an odor while taxiing to the gate .'
+b'the crew shut down both engines and notified the airport fire department .'
+b'passengers remained on board as firefighters checked for a heat source .'
+b'plane was towed to the gate and passengers allowed to disembark .'

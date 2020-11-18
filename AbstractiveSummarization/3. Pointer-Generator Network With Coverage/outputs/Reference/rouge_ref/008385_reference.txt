@@ -1,0 +1,4 @@
+b"swiss researchers examined the ` hot jupiter ' planet hd 189733b ."
+b'temperatures reach 3,000 \xc2\xb0c in the atmosphere and wind speed is 620mph .'
+b'findings were comparable in quality to the hubble space telescope .'
+b"but the researchers used a ` relatively dinky ' telescope , suggesting the method could be replicated by other astronomers to study exoplaents ."

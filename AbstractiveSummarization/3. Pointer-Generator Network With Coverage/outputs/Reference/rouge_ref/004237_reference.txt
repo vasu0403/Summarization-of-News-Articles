@@ -1,0 +1,5 @@
+b'west ham will move to the olympic stadium for the 2016-17 season .'
+b'seasons tickets will cost hammers supporters as little as # 289 .'
+b'the club will have the cheapest pricing strategy in the premier league .'
+b'the price of a season ticket for under 16s will be cut to just # 99 .'
+b'family of four can purchase a season ticket for # 776 - # 41 per match .'

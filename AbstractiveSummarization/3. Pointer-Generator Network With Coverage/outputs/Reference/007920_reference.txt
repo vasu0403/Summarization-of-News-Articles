@@ -1,0 +1,6 @@
+b'warning : graphic content .'
+b'justin whittington , 23 , was taken into custody in california on friday .'
+b"initially charged with child cruelty , it was dropped to ` endangerment '"
+b'on saturday , after his bail went from $ 1m to $ 20,000 , he posted bond .'
+b"whittington was ` filmed hitting a toddler in the face so hard that he falls '"
+b"he is believed to be the boy 's father , will be in court on april 24 ."

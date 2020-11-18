@@ -1,0 +1,4 @@
+b'the duchess of cambridge is due to give birth on the 25th april .'
+b'new arrival will have the use of two nurseries , both shared with george .'
+b'one at anmer hall in norfolk and a second at kensington palace .'
+b'duchess is thought to have ordered # 18.95 pots of pink paint .'

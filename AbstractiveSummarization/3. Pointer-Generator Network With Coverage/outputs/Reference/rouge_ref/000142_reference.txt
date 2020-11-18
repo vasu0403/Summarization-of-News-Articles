@@ -1,0 +1,2 @@
+b'a couple named burger and king ?'
+b"internet has a meltdown over `` vampire diaries '' departure ."

@@ -1,0 +1,3 @@
+b'the bbc has made light of clarkson fracas in a comedy programme .'
+b"it shows bosses holding emergency meeting after he uses the word ` tosser '"
+b'the episode was filmed last july , but the narration has been tweaked .'

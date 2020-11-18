@@ -1,0 +1,4 @@
+b'mary doyle keefe died in simsbury , connecticut , aged 92 .'
+b"she was ` rosie the riveter ' the wartime poster girl who inspired millions ."
+b"artist made petite mary 's muscles bigger to make her symbol of strength ."
+b'became a symbol for feminism for the wartime women who stayed home .'

@@ -1,0 +1,2 @@
+waze app allows users to tag the locations of parked police vehicles , accidents , congestion , traffic cameras , potholes and more , so that other drivers using waze are warned as they approach the same location .
+there are growing concerns that google 's waze application poses a danger to police because of its ability to track their locations .

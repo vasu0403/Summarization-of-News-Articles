@@ -1,0 +1,4 @@
+b'app created to remove posts that might cause problems with employers .'
+b"users can search for keywords such as ` gay ' , ` black ' or swear words and the software deletes any tweet that mentions them ."
+b'creator ethan czahor was fired from his job due to offensive tweets .'
+b"and he said he hopes ` clear ' app will ensure others do n't suffer same fate ."

@@ -1,0 +1,5 @@
+b"three-year-old choupette , the white siamese cat , is ` richest cat in world '"
+b'she did advert for cars in germany and beauty products in japan last year .'
+b'both earned her # 2.18 million and was first cat to front a beauty campaign .'
+b'this is just under the # 2.4 million cara delevingne earned last year .'
+b"in new york karl lagerfeld 's moggy had her own room in # 400 a night hotel ."

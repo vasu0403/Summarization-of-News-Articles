@@ -1,0 +1,3 @@
+b'manchester united , tottenham and chelsea are all travelling abroad after the end of the premier league season .'
+b"arsene wenger has decided not to extend arsenal 's summer tour ."
+b'the gunners face relegation candidates burnley on saturday .'

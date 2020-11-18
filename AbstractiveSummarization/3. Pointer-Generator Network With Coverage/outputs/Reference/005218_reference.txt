@@ -1,0 +1,4 @@
+b'an unnamed wall street trader made a profit of approximately $ 2.5 million on friday thanks to a tweet from the wall street journal .'
+b'the trader purchased 315,800 shares of chipmaker altera one minute after the journal reported intel was in talks to purchase them .'
+b'the shares were sold to the trader at $ 36 , and just 28 minutes later , when the market closed , shares were selling for $ 44.39 .'
+b"intel 's reported purchase of altera still has yet to happen , and the news has actually caused the price of intel shares to fall ."

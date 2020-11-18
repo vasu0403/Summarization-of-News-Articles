@@ -1,0 +1,3 @@
+b'sunderland face newcastle in the tyne-wear deerby on sunday .'
+b"captain john o'shea has targeted a fifth successive win over rivals ."
+b'black cats are in danger of falling into relegation zone over easter .'

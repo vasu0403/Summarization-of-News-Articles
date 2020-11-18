@@ -1,0 +1,3 @@
+b'customers can have a picnic basket delivered after ordering online .'
+b'paris picnics packs all the specialties , including french bread and wine .'
+b'more expensive menu options include macarons and foie gras .'

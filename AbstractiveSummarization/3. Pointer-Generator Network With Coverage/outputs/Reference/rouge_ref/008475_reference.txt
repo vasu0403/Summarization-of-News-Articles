@@ -1,0 +1,6 @@
+b'warning : graphic content .'
+b'chloe knapton , 21 , was attacked when man smashed down her car window .'
+b'she had surgery after glass was left embedded in her neck after the attack .'
+b'attack happened while she was driving her car but had stopped in the road .'
+b'andrew shires , 37 , from holmfirth , west yorkshire is charged with wounding .'
+b"andrew shires , 37 , from holmfirth , has appeared at kirklees magistrates ' court , charged with wounding the woman . he was remanded in custody until his next appearance at leeds crown court on may 5 ."

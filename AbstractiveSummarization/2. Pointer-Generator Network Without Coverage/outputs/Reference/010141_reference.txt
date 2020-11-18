@@ -1,0 +1,4 @@
+b"scientists in belgium say all sweet potatoes contain ` foreign dna '"
+b'agrobacterium bacteria in the crop exchanges genes between species .'
+b"this makes sweet potatoes a ` natural genetically modified organism '"
+b'and humans have been eating it for thousands of years .'

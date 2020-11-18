@@ -1,0 +1,4 @@
+b"` churchill 's toyshop ' operated out of london at first in world war two ."
+b'eventually it moved to a mansion in the countryside to avoid air raids .'
+b'the top-secret weapons lab developed some groundbreaking weapons .'
+b'these included the human limpet mine and a rocket-powered wheel .'

@@ -1,0 +1,4 @@
+b'study : 90 per cent of patients were able to get an appointment in 2013/14 .'
+b"10 per cent who could n't amounts to 33.8 million unsuccessful attempts ."
+b'situation is responsible for a quarter of a&e visits , say researchers .'
+b'problem is more to do with lack of doctors rather than opening hours .'

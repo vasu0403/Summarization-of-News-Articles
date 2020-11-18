@@ -1,0 +1,4 @@
+b'spanish researchers say climate change impacted human migration .'
+b'until 1.4 million years ago it was too cold to inhabit southeast spain .'
+b'but then the climate warmed to 13 \xc2\xb0c -lrb- 55 \xc2\xb0f -rrb- and became more humid .'
+b'this enabled hominins - our distant ancestors - to move to new regions .'

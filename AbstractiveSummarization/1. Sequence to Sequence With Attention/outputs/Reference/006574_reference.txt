@@ -1,0 +1,4 @@
+b"durham university scientists studied a ` clump ' of dark matter ."
+b'it was found to lag behind the galaxy it was associated with .'
+b'this suggests dark matter particles can self-interact and slow down .'
+b'it means dark matter may not be as oblivious to our universe as we thought .'

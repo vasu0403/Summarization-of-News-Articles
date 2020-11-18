@@ -1,0 +1,4 @@
+b'harper beckham and north west have both attended fashion week shows .'
+b"harper attends with father david and brothers to support victoria 's shows ."
+b'north made headlines throwing tantrum while seated next to anna wintour .'
+b"roxy jacenko 's three-year-old daughter attended two mbfwa shows ."

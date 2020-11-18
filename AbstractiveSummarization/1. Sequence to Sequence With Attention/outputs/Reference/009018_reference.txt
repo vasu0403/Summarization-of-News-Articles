@@ -1,0 +1,3 @@
+b'a new poll has asked brits and americans questions about the royal baby .'
+b'both nationalities favour a girl and want her to be a good role model .'
+b"uk 's top names are charlotte and alice , while us likes diana and elizabeth ."

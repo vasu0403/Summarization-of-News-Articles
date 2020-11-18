@@ -1,0 +1,4 @@
+b'university of cologne scientist led research proposing new theory .'
+b'it suggests temperatures at the equator were -40 \xc2\xb0c 2.4 billion years ago .'
+b'the reasons why the whole planet was frozen are not understood .'
+b'but it could have implications for finding life on frozen moons like europa .'

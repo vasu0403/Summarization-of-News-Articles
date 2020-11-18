@@ -1,0 +1,5 @@
+b'marina lyons , 80 , took pet dog rosie for operation to remove her spleen .'
+b"after successful surgery noticed dark bruising along the dog 's back ."
+b'was told damage was from surgery , but took pet for a second opinion .'
+b'second vet discovered burns , and had to operate to remove dead skin .'
+b'warning graphic content .'

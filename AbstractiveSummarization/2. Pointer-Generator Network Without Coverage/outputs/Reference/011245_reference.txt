@@ -1,0 +1,3 @@
+b"a teenager has broken the world record for completing a rubik 's cube ."
+b'collin burns finished the notoriously difficult puzzle in just 5.25 seconds .'
+b'he shaved 0.3 of a second off the record at an event in pennsylvania .'

@@ -1,0 +1,3 @@
+b'liz the bearded dragon appears to understand the english language .'
+b"the cheeky reptile nods when asked ` are you hungry ? ' by her owner ."
+b'shannen hussein has a number of pets on her hobby farm in melbourne .'

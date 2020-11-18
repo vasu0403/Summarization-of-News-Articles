@@ -1,0 +1,4 @@
+b'the fat duck in bray named as the eighth best restaurant in the world .'
+b"dinner by heston at london 's mandarin oriental hotel makes it to top 25 ."
+b"best restaurant in the world is grant achatz 's alinea , chicago ."
+b'the awards are voted for by readers of elite traveler magazine .'

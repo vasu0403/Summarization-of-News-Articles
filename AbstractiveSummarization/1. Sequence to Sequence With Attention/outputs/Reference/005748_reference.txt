@@ -1,0 +1,4 @@
+b"most americans identify as ` middle class ' whether they earn $ 20k or $ 250k ."
+b'new study calculates how much middle class citizens earn in each state .'
+b'highest paid middle class is in maryland , alaska , new jersey , hawaii , dc .'
+b'lowest paid is in mississippi , arkansas , west virginia , alabama , kentucky .'

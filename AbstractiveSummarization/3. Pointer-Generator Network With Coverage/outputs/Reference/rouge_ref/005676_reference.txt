@@ -1,0 +1,3 @@
+b'flights diverted from dubai international airport because of freak weather .'
+b'a 24-year-old was seriously injured in car collision during the sandstorm .'
+b'forecasters warn high winds are set to continue over the weekend .'

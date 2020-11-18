@@ -1,0 +1,5 @@
+b'england in group d with holland , italy and republic of ireland .'
+b'tournament takes place in bulgaria between may 6 and 22 .'
+b"john peacock 's young lions are the defending champions ."
+b'they beat holland on penalties to win the competition last year .'
+b'scotland drawn with greece , russia and france in group c .'

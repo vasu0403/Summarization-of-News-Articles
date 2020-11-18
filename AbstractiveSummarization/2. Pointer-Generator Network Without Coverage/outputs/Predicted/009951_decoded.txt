@@ -1,0 +1,3 @@
+modular robotic vehicle was developed at nasa 's johnson space center to show off the technologies that could let man move across other planets .
+it was developed at nasa 's johnson space center to show off the technologies that could let man move across other planets .
+the buggy has no mechanical linkages to the propulsion , steering , or brake actuators .

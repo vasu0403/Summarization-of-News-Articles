@@ -1,0 +1,3 @@
+b'sergey bubka launched a manifesto ahead of running to be iaaf president .'
+b"he is sebastian coe 's rival for the position in august 's election ."
+b'bubka promised crackdown on doping and review of athletics as a whole .'

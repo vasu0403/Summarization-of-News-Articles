@@ -1,0 +1,4 @@
+b'the billion dollar chicken shop is a three-part bbc programme on kfc .'
+b"viewers unleash a barrage of negative comments after yesterday 's episode ."
+b'programme showed how chicken burger is prepared for cameras .'
+b'kfc has 860 stores nationwide and serves 22 million customers a year .'

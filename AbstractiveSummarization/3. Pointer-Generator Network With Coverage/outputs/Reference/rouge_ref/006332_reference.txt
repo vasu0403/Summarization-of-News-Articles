@@ -1,0 +1,4 @@
+b'the virtual reality headset is available to buy from firebox for # 29.95 .'
+b'it works with android and ios phones via virtual reality apps and 3d films .'
+b'the maximum size of the device must be 3.5 x 5.7-inches -lrb- 8.2 x 15.4 cm -rrb- .'
+b'it calls itself an affordable alternative to rivals such as oculus rift .'

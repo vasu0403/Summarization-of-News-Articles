@@ -1,0 +1,4 @@
+b'president barack obama is visiting jamaica .'
+b"usain bolt said ` it was truly a great honour ' to meet the president ."
+b'obama met the world-class sprinter when they did his signature pose .'
+b'obama also gave a special mention to triple-world champion shelly-ann fraser-pryce and bolt while speaking during town hall meeting .'

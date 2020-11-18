@@ -1,0 +1,3 @@
+b'bentleys and porsches finished bottom of reliability table of manufacturers .'
+b'cars were assessed on their failure rate , age , mileage and cost of repairs .'
+b'most reliable was honda , with suzuki second and toyota in third place .'

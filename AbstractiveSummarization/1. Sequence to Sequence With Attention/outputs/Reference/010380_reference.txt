@@ -1,0 +1,3 @@
+b'the bike washing machine replaces the front wheel with a washing drum .'
+b'it is being developed by designers at dalian nationalities university , china .'
+b'it means cyclists can save electricity by washing clothes as they exercise .'

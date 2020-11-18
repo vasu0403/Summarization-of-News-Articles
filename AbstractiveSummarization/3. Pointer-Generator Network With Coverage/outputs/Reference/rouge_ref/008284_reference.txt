@@ -1,0 +1,4 @@
+b'the trackyourdose app was developed by germany-based firm esooka .'
+b'it uses a mathematical model developed by scientists and meteorologists .'
+b"the # 1.49 -lrb- $ 1.99 -rrb- ios app keeps a record of a user 's ` personal radiation '"
+b"this includes exposure from medical examinations , changes in a person 's location and flights ."

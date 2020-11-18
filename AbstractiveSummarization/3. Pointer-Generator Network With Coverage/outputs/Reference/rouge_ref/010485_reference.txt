@@ -1,0 +1,3 @@
+b'the richest compiled a list of the top airport landing charges .'
+b'be prepared to fork out # 2,630 to land at la guardia in new york .'
+b'prices are based on landing a private 767-400 jet carrier .'

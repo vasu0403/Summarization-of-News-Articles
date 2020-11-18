@@ -1,0 +1,4 @@
+b'nicholas tooth , 25 , was playing for the quirindi lions in regional nsw .'
+b"on saturday he hit his head on an opponent 's shoulder during a tackle ."
+b"he was airlifted to newcastle 's john hunter hospital in a critical condition ."
+b'on sunday mr tooth , who had been living in sydney , died in hospital .'

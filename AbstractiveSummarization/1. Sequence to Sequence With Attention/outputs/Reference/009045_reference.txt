@@ -1,0 +1,3 @@
+b'notebook written by alan turing during world war ii sold for # 700,000 .'
+b'it was written at the bletchley park code-breaking headquarters in 1942 .'
+b'only extensive turing manuscript thought to exist , auctioneer said .'

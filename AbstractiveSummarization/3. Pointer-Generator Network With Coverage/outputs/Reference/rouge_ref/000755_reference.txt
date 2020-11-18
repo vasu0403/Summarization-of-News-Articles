@@ -1,0 +1,3 @@
+b"salk 's vaccine began with inoculating school children in april , 1955 ."
+b'polio was declared eradicated in the u.s. in 1979 , but still exists in other countries .'
+b'a new microneedle patch is easily used by minimally trained personnel .'

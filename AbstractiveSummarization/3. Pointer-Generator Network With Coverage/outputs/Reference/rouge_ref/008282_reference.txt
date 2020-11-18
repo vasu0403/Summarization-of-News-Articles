@@ -1,0 +1,3 @@
+b"the retail scene is changing too with macy 's due to open soon ."
+b'an opera house is being built in the lagoons area .'
+b'several trendy art galleries have appeared .'

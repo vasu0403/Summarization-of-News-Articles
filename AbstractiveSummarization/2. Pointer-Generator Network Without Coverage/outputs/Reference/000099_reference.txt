@@ -1,0 +1,3 @@
+b'the film will premiere on memorial day .'
+b"it opened last year 's cannes film festival ."
+b'a planned march theater release was scrubbed .'

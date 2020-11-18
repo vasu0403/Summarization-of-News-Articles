@@ -1,0 +1,4 @@
+b"five men and one woman were arrested at 8am in the port 's departure zone ."
+b'the group , all in their 20s , are currently being questioned at police station .'
+b'searches taking place at a number of addresses in birmingham , west mids .'
+b'suspects are not a family group and were not accompanied by children .'

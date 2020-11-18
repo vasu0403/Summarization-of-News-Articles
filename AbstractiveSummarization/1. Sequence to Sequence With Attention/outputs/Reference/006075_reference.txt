@@ -1,0 +1,3 @@
+b"bluey 's purr has been measured at 93 decibels , which is louder than the official world record ."
+b'the cat is currently in a centre in cambridge and looking for a new home .'
+b'her growls are so loud they stop other animals from sleeping properly .'

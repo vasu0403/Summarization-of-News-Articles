@@ -1,0 +1,5 @@
+b'the ancient tuscan town is based 40 miles south east of genoa .'
+b"little is known about much of the settlement 's origin or history ."
+b'seismic instability noted as a reason for the mass abandonment .'
+b"today the town is seen as italy 's most famous abandoned location ."
+b'folklore suggests that the depreciating settlement is haunted .'

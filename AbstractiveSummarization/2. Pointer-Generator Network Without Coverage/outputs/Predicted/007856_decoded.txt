@@ -1,0 +1,3 @@
+sonnenspeicher features an intelligent management system that automatically controls the charging and discharging current .
+it uses a lithium iron phosphate battery to store the energy harvested during the day by solar panels fitted to a roof .
+it uses a lithium iron phosphate battery to store the energy harvested during the day .

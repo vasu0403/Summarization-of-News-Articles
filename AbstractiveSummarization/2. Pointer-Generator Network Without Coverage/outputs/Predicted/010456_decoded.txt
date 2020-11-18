@@ -1,0 +1,2 @@
+fingerprint scanners are often touted as the future of security and an alternative to the notoriously flawed password .
+but experts have found a way to intercept a person 's biometric data after it is captured by a built-in scanner , but before it becomes encrypted .

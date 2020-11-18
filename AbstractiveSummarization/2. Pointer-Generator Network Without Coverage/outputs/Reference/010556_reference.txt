@@ -1,0 +1,3 @@
+b"christie 's is holding a magnificent jewels auction next month in geneva ."
+b'overall , it is expected to raise in excess of # 53million .'
+b'includes pink diamond worth # 8million and sapphire worth # 2.7 million .'

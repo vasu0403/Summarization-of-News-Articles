@@ -1,0 +1,3 @@
+b"scientists created a computer model to analyse kola fireball 's trajectory ."
+b'it had similar orbit to asteroid 2014 ur116 due to pass by moon in 2017 .'
+b'this suggests the two bodies may be related as streams of asteroid fragments can travel on nearly identical orbits .'

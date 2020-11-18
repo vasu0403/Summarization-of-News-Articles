@@ -1,0 +1,6 @@
+b'a bubbler at a melbourne high school has been dispensing recycled water .'
+b"students at st peter 's college in melbourne may have been drinking treated sewage water for around 16 months ."
+b'the horrific discovery was made by maintenance during school holidays .'
+b'investigation is under way by the department of health and human services .'
+b'students were at risk of contracting gastro while drinking from the bubbler .'
+b'the other 20 bubblers at the school have been tested and deemed safe .'

@@ -1,0 +1,4 @@
+b'visual health studios in colorado has developed a weight loss app .'
+b'it calculates what you would look like if you lost specified weight .'
+b'inputting your height , weight and target weight reveals you new look .'
+b'the app is available now for both ios and android .'

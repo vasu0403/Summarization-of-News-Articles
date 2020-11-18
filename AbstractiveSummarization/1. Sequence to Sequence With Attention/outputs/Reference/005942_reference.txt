@@ -1,0 +1,4 @@
+b'company in texas has been asked to develop its revolutionary engine .'
+b"ad astra 's vasimr engine could apparently get to mars in 39 days ."
+b'it is one of 12 advanced technology projects to be funded by nasa .'
+b'others include new types of habitation and small deep space satellites .'

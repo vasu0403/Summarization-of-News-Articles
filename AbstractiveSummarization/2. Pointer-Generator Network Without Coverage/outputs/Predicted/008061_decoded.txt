@@ -1,0 +1,3 @@
+the map reveals average yearly counts of lightning flashes per square kilometre from 1995 to 2013 .
+the map was created using data from nasa 's tropical rainfall measuring mission satellite , and the orbview-1 / microlab satellite .
+the map was created using data from nasa 's tropical rainfall measuring mission satellite .

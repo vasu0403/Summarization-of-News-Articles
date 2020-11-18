@@ -1,0 +1,5 @@
+b'barcelona , bayern munich , juventus and real madrid make up last four .'
+b'real madrid are looking to retain their title and win for the 11th time .'
+b'barcelona have won three champions leagues since 2006 .'
+b'bayern munich are five-time winners and last won at wembley in 2013 .'
+b"juventus ' two european cup wins came in 1985 and 1996 ."

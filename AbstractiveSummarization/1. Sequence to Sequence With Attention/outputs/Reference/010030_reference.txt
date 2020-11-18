@@ -1,0 +1,4 @@
+b"german team has developed new technique giving ` personalised treatment '"
+b'tests carried out on cancerous cells in lung , skin and bowel tumours .'
+b'survival rates boosted by more than 50 per cent during animal trials .'
+b'patients with skin cancer now being recruited for the first human trials .'

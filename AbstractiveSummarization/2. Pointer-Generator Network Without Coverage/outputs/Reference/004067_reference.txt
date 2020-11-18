@@ -1,0 +1,5 @@
+b"tom jones ' song ` delilah ' is sung by stoke fans as unofficial club anthem ."
+b'mark hughes believes the hit is costing them a spot in europe league .'
+b'team top of premier league fair play table could play in europe next year .'
+b'west ham are currently leading the table , while stoke occupy 17th place .'
+b'hughes has slammed the competition ahead of clash with southampton .'

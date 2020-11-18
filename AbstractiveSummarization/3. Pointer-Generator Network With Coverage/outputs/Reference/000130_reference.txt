@@ -1,0 +1,3 @@
+b'prosecutor : carlos colina , 32 , will be arraigned on the murder charge next week .'
+b"he 's already been arraigned for alleged assault and battery , improper disposal of a body ."
+b'body parts were found in a duffel bag and a common area of an apartment building .'

@@ -1,0 +1,3 @@
+b'the 2015 sydney royal easter show opened to the public last thursday 26 .'
+b'the website displays the retail value of the showbags and their official cost .'
+b'some cost more than their retail value , others list grossly inaccurate costs .'

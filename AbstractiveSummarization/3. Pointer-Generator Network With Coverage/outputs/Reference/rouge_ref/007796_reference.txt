@@ -1,0 +1,4 @@
+b'the game was available to download as an app from amazon and android .'
+b"its designers sold it as ` an amusing game ' to help people with anorexia ."
+b'failure to feed the girl results in the character losing weight and dying .'
+b'social media users claim the game stigmatises people with problems .'

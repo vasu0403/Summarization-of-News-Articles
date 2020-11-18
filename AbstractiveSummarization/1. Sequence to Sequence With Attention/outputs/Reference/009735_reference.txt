@@ -1,0 +1,4 @@
+b"researchers claimed antibiotics could be contributing to ` obesity epidemic '"
+b'their large-scale study was published in the respected pediatrics journal .'
+b'it found one third of 10 to 11-year-olds in england are overweight or obese .'
+b'children who took antibiotics as babies were more likely to be overweight .'

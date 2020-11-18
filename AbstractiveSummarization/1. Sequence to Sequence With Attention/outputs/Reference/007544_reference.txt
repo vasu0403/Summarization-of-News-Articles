@@ -1,0 +1,4 @@
+b'hodor is a character in game of thrones who only speaks a single word .'
+b'expert says he may have the neurological condition expressive aphasia .'
+b'this is where there is a lesion in the part of the brain that controls speech .'
+b'condition usually caused by a blow to the head , stroke or a tumour .'

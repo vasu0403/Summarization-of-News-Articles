@@ -1,0 +1,3 @@
+b'steve clarke thinks that scheduling needs to better for the fa cup .'
+b"reading 's semi-final clashes with chelsea against manchester united ."
+b'clarke admits that without improvements , the fa cup will lose its appeal .'

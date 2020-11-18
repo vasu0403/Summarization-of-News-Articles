@@ -1,0 +1,2 @@
+sonnenspeicher uses a lithium iron phosphate battery to store energy harnessed by solar panels .
+sonnenspeicher features an intelligent management system that automatically controls the charging and discharging current , to make it easier to manage how much energy is being used .

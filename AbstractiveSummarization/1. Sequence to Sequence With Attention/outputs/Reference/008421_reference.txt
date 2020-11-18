@@ -1,0 +1,4 @@
+b'the mother-daughter duo dined at lupa in the greenwich village saturday .'
+b"the enjoyed a five-course italian lunch of pasta , salad , meat and cheese by the restaurant 's owner , mario batali ."
+b"michelle was in new york this week launching an interactive online map to encourage people to join their local ` let 's move ' program ."
+b"mother 's day is may 10 ."

@@ -1,0 +1,4 @@
+b'manchester united beat manchester city 4-2 at old trafford on sunday .'
+b"gary neville praised united 's recent performances against big clubs ."
+b"he said ` that was a proper performance they 've put in out there today '"
+b"niall quinn said it was united 's best performance since sir alex ferguson ."

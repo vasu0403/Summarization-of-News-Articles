@@ -1,0 +1,3 @@
+b"choc on choc 's chocolates come in three different flavours ."
+b'the face of each politician is emblazoned on milk belgium chocolate bars .'
+b"cameron 's has blueberries , clegg is honeycomb and miliband is raspberry ."

@@ -1,0 +1,3 @@
+b'manchester united lost 3-0 by everton at goodison park on sunday .'
+b"louis van gaal said united 's motivation did not match everton 's ."
+b'the united boss could tell the attitude was not right in the warm-up .'

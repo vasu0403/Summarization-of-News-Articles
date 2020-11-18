@@ -1,0 +1,4 @@
+b"many smartphones - including apple 's iphone - come with an fm chip installed but many are not switched on by the manufacturers ."
+b'bbc and other broadcasters are pushing to have radio capability turned on .'
+b'they say it would allow users to listen to broadcasts without data charges .'
+b'it could also prove a vital way of getting information during emergencies .'

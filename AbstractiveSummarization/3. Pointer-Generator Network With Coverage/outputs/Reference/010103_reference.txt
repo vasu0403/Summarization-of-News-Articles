@@ -1,0 +1,4 @@
+b'swiftkey analysed one billion sets of emoji data across 60 categories .'
+b'us uses lgbt emoji - such as men holding hands - 30 % more than average .'
+b'russians use three times more romantic emoji including the kiss mark .'
+b'while australians use double the average amount of alcohol-themed emoji .'

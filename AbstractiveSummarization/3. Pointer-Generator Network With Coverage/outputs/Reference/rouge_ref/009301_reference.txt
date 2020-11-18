@@ -1,0 +1,4 @@
+b"the box truck collided with a car on interstate 93 southbound in the city 's dorchester neighborhood at about 6am ."
+b'both drivers were taken to hospital with non-life-threatening injuries .'
+b"as officials did n't want to risk running trains under the over-hanging truck , replacement shuttle buses were run for southbound passengers ."
+b'on the highway there were also massive delays .'

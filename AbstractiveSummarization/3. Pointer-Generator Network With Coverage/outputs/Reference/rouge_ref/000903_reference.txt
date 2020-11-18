@@ -1,0 +1,3 @@
+b'the world happiness report highlights the happiest countries .'
+b'people live longer and experience more generosity and social support in these counties .'
+b'the united nations first declared a world happiness day in 2012 .'

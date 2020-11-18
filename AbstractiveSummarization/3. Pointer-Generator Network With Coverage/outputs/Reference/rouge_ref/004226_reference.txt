@@ -1,0 +1,3 @@
+b'david cameron claims he is a west ham fan during a speech .'
+b'the prime minister has previously said he supported aston villa .'
+b"the tory leader apologised , saying he experienced ` brain fade '"

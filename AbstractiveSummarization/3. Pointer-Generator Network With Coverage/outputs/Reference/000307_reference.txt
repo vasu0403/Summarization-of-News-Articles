@@ -1,0 +1,3 @@
+b"the new `` star wars : episode vii -- the force awakens '' trailer is released ."
+b'a fan gathering in los angeles featured the cast and a droid .'
+b'the movie comes out december 18 .'

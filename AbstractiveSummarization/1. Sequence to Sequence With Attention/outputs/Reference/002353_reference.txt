@@ -1,0 +1,4 @@
+b'gary neville believes manchester united can get a result at chelsea .'
+b"the sky pundit thinks that louis van gaal 's side are currently hard to beat ."
+b'united travel to stamford bridge looking to close the gap on the leaders .'
+b'click here for all the latest manchester united news .'

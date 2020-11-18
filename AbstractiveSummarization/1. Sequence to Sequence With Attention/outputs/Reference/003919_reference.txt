@@ -1,0 +1,3 @@
+b'jack butland voted for harry kane to win young player of the year .'
+b"stoke keeper says there is not a player of the same age on kane 's level ."
+b'butland is hoping kane can help fire england u21s to glory this summer .'

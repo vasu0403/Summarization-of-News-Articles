@@ -1,0 +1,5 @@
+b'holidaymakers had arrived to a deserted terminal at manchester airport .'
+b'they walked past empty security cubicles without showing documents .'
+b"manchester airport investigating why border force officers were n't on duty ."
+b'were you one of the passengers on the ryanair flight ? call us on 0203\xc2\xa0615\xc2\xa03423 or email hannah.parry@mailonline.co.uk .'
+b'were you one of the passengers on the ryanair flight ? call us on 0203\xc2\xa0615\xc2\xa03423 or email hannah.parry@mailonline.co.uk .'

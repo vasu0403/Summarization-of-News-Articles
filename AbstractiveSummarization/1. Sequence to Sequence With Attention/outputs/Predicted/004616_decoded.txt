@@ -1,0 +1,3 @@
+researchers at the university of washington studied the [UNK] otter ii .
+they found that robots designed for surgery could be ` easily ' hacked in to .
+this is because they are operated over public networks which allowed the researchers to access them and stop them working .

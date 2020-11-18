@@ -1,0 +1,4 @@
+b"it has long been known that earth is constantly oscillating and ` humming '"
+b"earthquakes cause a certain level of hum , but a study claims different sized ocean waves also contribute to earth 's oscillations ."
+b'as water collides , it creates weak microseismic waves that cause a hum .'
+b'stronger seismic waves then occurs when water travels along the floor .'

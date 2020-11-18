@@ -1,0 +1,3 @@
+b'chelsea owner roman abramovich has bought a new # 17.1 m property .'
+b"he has bought tel aviv 's varsano hotel to convert into his israeli home ."
+b'the hotel is listed as a preserved building and covers 1,500 square metres .'

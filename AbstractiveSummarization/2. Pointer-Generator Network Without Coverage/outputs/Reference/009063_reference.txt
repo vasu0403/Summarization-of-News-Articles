@@ -1,0 +1,4 @@
+b'sidebar status is being trialled by facebook in taiwan and australia .'
+b'feature lets users write a brief update to share with close friends .'
+b'such notes last for 12 hours and can be seen in the sidebar of the app .'
+b'users can choose from a number of square tiles to illustrate their message .'

@@ -1,0 +1,4 @@
+b'duke university study looked at 1,000 years of temperature records .'
+b'it compared it to the most severe emissions scenarios by the ipcc .'
+b'found that natural variability can slow or speed the rate of warming .'
+b"these ` climate wiggles ' were not properly accounted for in ipcc report ."

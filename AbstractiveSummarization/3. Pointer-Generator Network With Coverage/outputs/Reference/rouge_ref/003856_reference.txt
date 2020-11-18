@@ -1,0 +1,4 @@
+b'lewis hamilton qualified in pole position for the bahrain grand prix .'
+b"ferrari 's sebastian vettel pipped mercedes ' nico rosberg to second ."
+b"hamilton has qualified pole in each of this season 's four races ."
+b'the brit qualified four tenths faster than vettel and six faster than rosberg .'

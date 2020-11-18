@@ -1,0 +1,3 @@
+b'the # 3,000 robbery happened at a lloyds bank branch in fairwater , cardiff .'
+b'cctv images released of a suspect with greying hair and wearing glasses .'
+b"police say they are ` confident ' the public will know the suspect 's identity ."

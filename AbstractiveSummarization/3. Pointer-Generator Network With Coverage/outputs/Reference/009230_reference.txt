@@ -1,0 +1,4 @@
+b'sally white , 28 , rescued the terrified animal from a bleak hillside .'
+b"` miller ' was malnourished , had severe anaemia and struggled to stand up ."
+b'she trained the six-year-old horse in the arts of dressage and she now competes with him in the british championships .'
+b'says : ` miller and i are a team - i needed him with me on my big day .'

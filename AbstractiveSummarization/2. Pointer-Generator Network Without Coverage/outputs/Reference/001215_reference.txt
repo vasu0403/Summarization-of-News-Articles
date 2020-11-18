@@ -1,0 +1,3 @@
+b'a short film highlights the nasty things people say about the homeless .'
+b'people who sleep rough in toronto read tweets people made about them .'
+b"they include : ' i hate when it 's cold because the homeless get on the bus '"

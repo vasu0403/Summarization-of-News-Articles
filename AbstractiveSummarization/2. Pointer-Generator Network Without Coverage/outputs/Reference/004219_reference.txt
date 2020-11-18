@@ -1,0 +1,3 @@
+b'turkish airlines flight landed at istanbul ataturk from milan , italy .'
+b'believed there were 97 passengers on board , all who escaped injury .'
+b'pilot had aborted a first landing as flames engulfed right engine .'

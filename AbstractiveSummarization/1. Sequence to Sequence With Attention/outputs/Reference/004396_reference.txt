@@ -1,0 +1,4 @@
+b'it is being developed by pixium vision with trials scheduled for 2016 .'
+b'a surgeon implants a small silicon chip with 150 electrodes on the retina .'
+b'an integrated camera on goggles sends images to a portable computer .'
+b"a ` pocket processor ' converts that recording into an infrared image , which the goggles then beam into the eye ."

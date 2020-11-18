@@ -1,0 +1,2 @@
+called eye2tv , it adjusts colours in the image so that shows look ` normal ' , even if features colours such as red and green that would otherwise not be visible .
+the device uses a patented eyeteq algorithm to automatically adjust the picture , with a variety of settings available until optimal picture quality is found .

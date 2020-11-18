@@ -1,0 +1,4 @@
+b'the discount chain yesterday posted annual sales exceeding # 1 billion .'
+b"it has now become europe 's largest single-price discount retailer ."
+b'poundland benefited from austerity seen in the wake of the financial crisis .'
+b'it also transformed high streets , luring customers away from superstores .'

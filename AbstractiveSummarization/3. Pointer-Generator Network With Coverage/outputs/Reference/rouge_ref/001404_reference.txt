@@ -1,0 +1,3 @@
+b'louis smith decided to focus on media career following london 2012 .'
+b"gymnast smith competed for england at last year 's commonwealth games ."
+b'max whitlock and kristian thomas also been included in six-man squad .'

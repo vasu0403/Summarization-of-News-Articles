@@ -1,0 +1,3 @@
+b"sienna miller , 33 , is ` not a gym person ' but loves yoga ."
+b'mother-of-one works with a personal trainer , power-walking and jogging .'
+b"try hip rolls , a pilates move that targets the ` oblique ' abdominal muscles ."

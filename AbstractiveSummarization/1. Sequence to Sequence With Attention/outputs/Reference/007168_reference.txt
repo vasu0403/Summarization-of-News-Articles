@@ -1,0 +1,4 @@
+b'the luxurious library hotel has more than 6,000 books scattered throughout its guest rooms and public spaces .'
+b"each floor is dedicated to one of 10 of the dewey decimal system 's categories , including history and technology ."
+b"every one of the hotel 's 60 rooms is decorated according to a genre or topic within the categories ."
+b'on the fifth floor - devoted to math and science - guests stay in rooms themed after astronomy and dinosaurs .'

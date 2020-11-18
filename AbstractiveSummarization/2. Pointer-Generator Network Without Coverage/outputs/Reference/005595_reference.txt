@@ -1,0 +1,4 @@
+b'the presidential hopeful held a town hall meeting in kenilworth on tuesday .'
+b'during the meeting , high school english teacher kathy mooney got up to ask the governor a question about pensions .'
+b"she asked why he did n't seek a higher legal settlement in a case with exxonmobil that would have contributed to the state 's pension system ."
+b'christie responded by repeatedly asking how much mooney knew about the deal instead of answering her question .'

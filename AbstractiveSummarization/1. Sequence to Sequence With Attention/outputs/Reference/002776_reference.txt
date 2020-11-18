@@ -1,0 +1,4 @@
+b'patient had 19 teeth removed in a series of operations in munich , germany .'
+b"the dentist - known only as k - claimed he was a ` recognised healer '"
+b"alleged the patient had bone inflammation and could n't have fillings ."
+b'independent report found there was no medical basis for the operations .'

@@ -1,0 +1,2 @@
+b"some observers applaud abbott 's beer swilling in a pub full of sportsmen ."
+b'the prime minister last year criticized binge drinking culture in australia .'

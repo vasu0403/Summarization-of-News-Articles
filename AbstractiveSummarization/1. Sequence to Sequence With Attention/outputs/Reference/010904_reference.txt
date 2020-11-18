@@ -1,0 +1,4 @@
+b'peter gale dismissed from nonsuch high school for girls a fortnight ago .'
+b"the reason was given as ` unprofessional and inappropriate conduct '"
+b'mail on sunday investigation discovers it was due to emails sent to pupil .'
+b'but mr gale denies he behaved inappropriately towards any student .'

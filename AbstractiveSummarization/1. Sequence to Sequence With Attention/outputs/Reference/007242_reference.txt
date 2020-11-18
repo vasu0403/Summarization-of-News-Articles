@@ -1,0 +1,3 @@
+b"new study reveals the average person 's friends circle peaks at age of 26 ."
+b'women are most popular at 25 and men hit their friendship high at 27 .'
+b'research also showed social networks facebook and twitter are crucial .'

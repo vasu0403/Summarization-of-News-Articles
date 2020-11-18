@@ -1,0 +1,5 @@
+b'carlos tevez played for manchester united , manchester city and west ham .'
+b'argentinian striker scored 84 premier league goals and won three titles .'
+b"but tevez says in england ` the midfield is non-existent '"
+b'tevez insists his juventus side can win the champions league .'
+b'striker won the trophy with manchester united in 2008 .'

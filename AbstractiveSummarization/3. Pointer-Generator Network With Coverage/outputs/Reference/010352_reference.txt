@@ -1,0 +1,4 @@
+b"project fi will be hosted through sprint corp and t-mobile 's networks ."
+b'it costs $ 20 for basic service and unused data is paid back to customer .'
+b'the invitation-only service will work only on nexus 6 phones in the us .'
+b'numbers will live in the cloud so users can talk on any connected tablet .'

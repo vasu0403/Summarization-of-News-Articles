@@ -1,0 +1,4 @@
+b'films can be bought at skystore.com or through the sky store app .'
+b'recent new releases include the hunger games : mockingjay part 1 , the hobbit : the battle of the five armies and paddington .'
+b'new releases cost # 13.99 , classics are # 7.99 and both include a dvd copy .'
+b'new releases on blinkbox are # 8.99 to buy a digital copy the user can keep .'

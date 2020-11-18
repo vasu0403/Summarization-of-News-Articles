@@ -1,0 +1,3 @@
+b"delta said ' a small number of customers ' on flight 271 from paris to newark complained of nausea and possible minor injuries ."
+b'two people taken to massachusetts general hospital after unscheduled landing at logan airport in boston .'
+b'extreme turbulence prevented the plane from landing at newark and then jfk before pilot headed to logan .'

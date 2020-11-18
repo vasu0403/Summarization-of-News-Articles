@@ -1,0 +1,4 @@
+b'princess beatrice is at the cond\xc3\xa9 nast international luxury conference .'
+b"she watched a lecture by vogue 's suzy menkes and karl lagerfeld ."
+b"first night spent partying at a palazzo with ralph lauren 's son ."
+b'returned to the lecture room for a second day in a row today .'

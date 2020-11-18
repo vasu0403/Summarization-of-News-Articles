@@ -1,0 +1,4 @@
+b'the now 45-year-old singer wore the dress at the 2000 grammy awards .'
+b"` it was the most popular search query we had ever seen , ' said schmidt ."
+b'it inspired google to launch image search so people could find it easier .'
+b'previously users had to search through pages of text broken up by links .'

@@ -1,0 +1,5 @@
+b'chelsea won 3-1 away at leicester in the premier league on wednesday .'
+b"john terry scored chelsea 's second in their win at the king power stadium ."
+b"goal was terry 's fourth in the premier league this season ."
+b'ex-west ham defender julian dicks scored 10 during the 1995-96 season .'
+b'read : branislav ivanovic has more assists than mesut ozil .'

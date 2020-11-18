@@ -1,0 +1,4 @@
+b'tom sturridge , 29 , will star in american buffalo alongside damian lewis .'
+b"he is fast becoming a critics ' favourite but is picky about his work ."
+b'engaged to sienna miller , the mother of daughter marlowe .'
+b"born into an acting family , he 's best friends with robert pattinson ."

@@ -1,0 +1,3 @@
+b'john daniels , 61 , from surrey , has decades of experience working with animals .'
+b"photographer 's charming snaps celebrate national pet day , which takes place tomorrow ."
+b'include comedy props , tiny furniture and unusual animal pairings .'

@@ -1,0 +1,3 @@
+b'andy murray and kim sears are getting married in dunblane this weekend .'
+b"preparations are underway for their nuptials at the town 's cathedral ."
+b"the decor echoes that of prince william 's wedding to kate middleton ."

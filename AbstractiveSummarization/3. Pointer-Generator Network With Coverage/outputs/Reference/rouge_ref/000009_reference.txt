@@ -1,0 +1,2 @@
+b"bob barker returned to host `` the price is right '' on wednesday ."
+b'barker , 91 , had retired as host in 2007 .'

@@ -1,0 +1,4 @@
+b'the robots , collectively called avert , are attached to a deployment unit .'
+b'unit is used to scan the area for obstacles and plan a route to the car .'
+b'it then releases bogies which travel to the car and dock onto the wheels .'
+b'system may help bomb disposal teams deal with suspicious vehicles .'

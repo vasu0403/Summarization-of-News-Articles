@@ -1,0 +1,3 @@
+b'the wildfire started in miami-dade county on sunday .'
+b'by monday night , it had grown to nearly 2,000 acres .'
+b'the fire was 50 % contained , officials said .'

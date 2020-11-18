@@ -1,0 +1,4 @@
+b'david king , 70 , from east london , retired to normandy 15 years ago .'
+b'body found by sniffer dogs and a man has been charged with murder .'
+b"alleged killer was living rough and is ` behind number of thefts in area '"
+b'gardener mr king may have confronted him over stolen vegetables .'

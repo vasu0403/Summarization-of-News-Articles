@@ -1,0 +1,4 @@
+b'university of connecticut study reveals how we can measure distances .'
+b'they said that listening to echoes tells us how far something it .'
+b'when a sound is close the differences in max and min volume are obvious .'
+b'but when it is distant , our neurons fire less , and we know it is further away .'

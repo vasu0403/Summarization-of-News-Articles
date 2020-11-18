@@ -1,0 +1,3 @@
+b'with room for 3600 , britannia is the largest ship built for the uk market .'
+b"p&o 's new ship has a gourmet edge , with a host of restaurants on board ."
+b'top chefs working with the ship include eric lanlard and mary berry .'

@@ -1,0 +1,4 @@
+b'paul smith will take on andre ward on june 20 in california .'
+b"ward 's wba super-middleweight title will not be on the line ."
+b'smith is coming off back-to-back world title defeats by arthur abraham .'
+b'ward has not fought since he beat edwin rodriquez in november 2013 .'

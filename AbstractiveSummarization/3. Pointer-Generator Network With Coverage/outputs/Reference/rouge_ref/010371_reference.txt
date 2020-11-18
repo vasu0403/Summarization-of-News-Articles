@@ -1,0 +1,3 @@
+b'the friends were on their way to see les mis\xc3\xa9rables on broadway when a conductor on the 6 train called for help .'
+b'the men , who are all police officers in their native sweden , wrestled the suspect to the floor and held him until nypd could arrive .'
+b"` we 're no heroes , just tourists , ' says uppsala , sweden , police officer ."

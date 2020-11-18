@@ -1,0 +1,4 @@
+b'rachel simpson , 15 , diagnosed with one-in-a-million genetic condition .'
+b'has mutation of the gata2 gene , making her vulnerable to infection .'
+b'can also make blood cells abnormal , leading to leukaemia .'
+b'the other members of her family will find out their fate in next few weeks .'

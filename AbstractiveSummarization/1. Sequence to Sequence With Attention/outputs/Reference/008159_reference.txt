@@ -1,0 +1,4 @@
+b'humans of new york shared a picture of a girl called beyonc\xc3\xa9 .'
+b'she expressed her annoyance of sharing a name with a celebrity .'
+b'the photo encouraged thousands of facebook users to comment .'
+b'each shared their experiences of having an embarrassing name .'

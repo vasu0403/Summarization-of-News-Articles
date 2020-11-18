@@ -1,0 +1,4 @@
+b'peter gale has been fired from nonsuch high school for girls in surrey .'
+b"headteacher accused of ` inappropriate ' and ` unprofessional ' behaviour ."
+b"governors said there had been ` serious breaches ' in safeguarding ."
+b'but the high-performing school refused to confirm nature of allegations .'

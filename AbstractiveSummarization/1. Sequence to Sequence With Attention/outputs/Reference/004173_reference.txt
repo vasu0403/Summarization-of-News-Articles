@@ -1,0 +1,4 @@
+b'peter moores has come to the defence of england captain alastair cook .'
+b"batsman cook is in danger of becoming english cricket 's next victim ."
+b"england 's failure to win the first test has left the spotlight on cook ."
+b'under-fire moores is adamant he will turn things round in grenada .'

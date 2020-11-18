@@ -1,0 +1,4 @@
+b"adidas go app uses the phone 's accelerometer to monitor the user 's stride ."
+b'it then automatically plays tracks with matching beats per minute .'
+b"songs are also selected based on the runner 's musical interests ."
+b'these selections become more relevant the more the app is used .'

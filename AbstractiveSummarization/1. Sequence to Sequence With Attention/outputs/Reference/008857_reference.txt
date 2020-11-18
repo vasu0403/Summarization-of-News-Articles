@@ -1,0 +1,4 @@
+b'tiny copper coin is dated to the iron age , almost 2,300 years ago .'
+b'it was found in saltford between bristol and bath in south west england .'
+b"bears image of a horse 's head and the carthaginian goddess tanit ."
+b'find suggests trading links between south west and the mediterranean .'

@@ -1,0 +1,2 @@
+fanuc cr-35ia claims to be the first ` heavy-lifting industrial collaborative robot ' to work with humans without the need for safety fences .
+the fanuc company fanuc 's robot uses integrated vision technology called irvision to keep an eye on humans .

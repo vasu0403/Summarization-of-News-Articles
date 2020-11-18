@@ -1,0 +1,2 @@
+b'this is week three of an ongoing series : a catholic reads the bible . read week one and week two .'
+b"this week 's reading is a lot to take in . literally ."

@@ -1,0 +1,4 @@
+b"jamie anderson says cgi characters lack the ` magic ' of the iconic show ."
+b"says he is ` very fond of puppets and practical effects ' rather than cg ones ."
+b'thunderbirds returns to our screens tonight 50 years since launch of show .'
+b'original show aired between 1964 and 1966 and repeated in 1992 and 2002 .'

@@ -1,0 +1,4 @@
+b'jan jones bought bottle of tesco finest garnacha wine as a present .'
+b'her daughter drank a mouthful of the wine and later broke out in welts .'
+b'the family inspected the liquid they found it was clear and smelt of bleach .'
+b'tesco said wine was made by supplier and has launched an investigation .'

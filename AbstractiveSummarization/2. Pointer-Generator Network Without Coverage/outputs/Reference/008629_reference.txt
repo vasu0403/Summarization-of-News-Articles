@@ -1,0 +1,5 @@
+b'the par 3 contest is played every year on eve of the masters tournament .'
+b"world 's best players take on a nine-hole course with wives , girlfriends , friends and their kids as caddies ."
+b'tiger woods and bubba watson were some of the many who brought the whole family along to play .'
+b"rory mcilroy brought one direction 's niall horan to caddie the contest ."
+b'the masters tournament kicks off thursday at 8am in augusta , georgia .'

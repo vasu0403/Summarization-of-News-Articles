@@ -1,0 +1,4 @@
+b'stephen curry scored 34 points for golden state against new orleans .'
+b'the californian-based team defeated the pelicans 106-99 .'
+b'washington wizards outscored the toronto raptors 11-4 in overtime .'
+b'paul pierce led the scoring with 20 points for the wizards .'

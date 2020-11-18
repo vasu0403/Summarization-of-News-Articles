@@ -1,0 +1,2 @@
+photos and videos taken on the app disappear into a hidden album after three seconds and only appear at midday the day after the event .
+all attendees of the event can see this album , and users can only delete photos they took themselves .

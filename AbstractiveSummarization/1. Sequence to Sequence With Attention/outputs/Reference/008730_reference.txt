@@ -1,0 +1,3 @@
+b"bill dudley is still ` lovin ' it ' working at the fast-food joint in mold , north wales ."
+b'wife margaret , 71 , has nicknamed her hubby old mcdonald for his longevity .'
+b"bill 's special day was marked with a cake and tickets for a weekend away ."

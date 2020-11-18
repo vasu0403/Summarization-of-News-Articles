@@ -1,0 +1,3 @@
+b"doctors at the university of arkansas for medical sciences found a 56-year-old man 's kidney problems stemmed from drinking too much iced tea ."
+b'black tea contains oxalate , a chemical known to produce kidney stones and sometimes lead to kidney failure .'
+b'the unidentified man will likely spend the rest of his life in dialysis .'

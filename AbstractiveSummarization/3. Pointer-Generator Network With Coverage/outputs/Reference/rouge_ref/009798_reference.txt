@@ -1,0 +1,4 @@
+b"qantas ' on time rating slipped to 75th out of the 80 airlines using heathrow ."
+b'the airline could loose their eight landing strips at the popular airport .'
+b"they are also facing a fine in excess of $ 38,000 for every flight that 's late ."
+b'qantas blamed air congestion at heathrow and dubai airports .'

@@ -1,0 +1,4 @@
+b'red bull have endured a difficult start to the new formula one campaign .'
+b'daniel ricciardo was third quickest during practice for the chinese gp .'
+b"the australian 's red bull team-mate daniil kvyat was sixth fastest ."
+b'but his brakes caught fire and he was forced to stop on track .'

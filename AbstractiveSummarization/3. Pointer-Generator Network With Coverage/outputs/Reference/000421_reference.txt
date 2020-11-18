@@ -1,0 +1,2 @@
+b'new orleans bars are smoke-free as of wednesday morning .'
+b"a lawsuit by harrah 's and bar owners seeks to overturn the ban ."

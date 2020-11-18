@@ -1,0 +1,4 @@
+b'the drawing was discovered by fan site cult of android .'
+b"it appears on the map 's standard view at 33 \xc2\xb0 30 ' 52.5 'n 73 \xc2\xb0 03 ' 33.2 ' e ."
+b"addition is believed to have been added using google 's map maker ."
+b"and google told mailonline : we 've terminated the android figure involved in this incident , and he 'll be disappearing from google maps shortly . '"

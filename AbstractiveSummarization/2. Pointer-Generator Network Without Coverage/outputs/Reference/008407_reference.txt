@@ -1,0 +1,4 @@
+b'new app , honest , allows users to pose questions and remain anonymous .'
+b"users can post questions they 're too embarrassed to discuss with friends ."
+b'questions cover sexual dysfunction , secret crushes and family dilemmas .'
+b'other users weigh in with their advice about how to handle sensitive issue .'

@@ -1,0 +1,4 @@
+b"reports claim samsung will make the a9 chips for apple 's next iphone ."
+b'a7 and a8 were mostly made by taiwanese semiconductor manufacturing .'
+b'apple moved away from samsung as a substantial chip partner in 2013 .'
+b'samsung has previously made flash and working memory for iphones .'

@@ -1,0 +1,4 @@
+b'test is being offered by silicon valley-based start up color genomics .'
+b'it tests for 19 gene mutations linked to ovarian and breast cancer .'
+b'works by asking patients to send back a sample of saliva to a central lab .'
+b'test is available in 45 us states and needs to be ordered by a physician .'
